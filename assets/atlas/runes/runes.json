@@ -1,0 +1,1532 @@
+{
+	"textures": [
+		{
+			"image": "runes.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 320,
+				"h": 24
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "runes-speed-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 25,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 25,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 49,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 49,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 73,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-speed-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 73,
+						"y": 1,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 117,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 117,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-hpup-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 197,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 197,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 217,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 217,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 237,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-mana-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 22
+					},
+					"frame": {
+						"x": 237,
+						"y": 1,
+						"w": 18,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 305,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				},
+				{
+					"filename": "runes-damage-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 22
+					},
+					"frame": {
+						"x": 305,
+						"y": 1,
+						"w": 14,
+						"h": 22
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:932444258501b41a763c8f8b4a42dd6f:aa1585926782e98b6e24ef0d220364a7:48f931949e51ca2bd425dd7089a82187$"
+	}
+}

@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "raiffeisen.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1344,
+				"h": 119
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "raiffeisen-logo-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 337,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 449,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 561,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 673,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 785,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 897,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 1009,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				},
+				{
+					"filename": "raiffeisen-logo-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 110,
+						"h": 117
+					},
+					"frame": {
+						"x": 1233,
+						"y": 1,
+						"w": 110,
+						"h": 117
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d82bfadb29616723b5a949521ddb0e59:f6d2514469fe84c56b6d39875e2b9573:4bca2bb586fcd93c1c7f94d7cdebdeed$"
+	}
+}

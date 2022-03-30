@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "vcru-logo.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 588,
+				"h": 82
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "vcru-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 148,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 148,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 148,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 442,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 442,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				},
+				{
+					"filename": "vcru-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 80
+					},
+					"frame": {
+						"x": 442,
+						"y": 1,
+						"w": 145,
+						"h": 80
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:240ba3e521c55b5911002f87fcea6361:0bbda6933bb9a2e7dcbb6b7d05ee5e08:019b6f9479dda7c3dfac5ffbdf71f223$"
+	}
+}

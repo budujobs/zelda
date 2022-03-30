@@ -1,0 +1,1532 @@
+{
+	"textures": [
+		{
+			"image": "balls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 306
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bubble-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bubble-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 29,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bubble-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 29,
+						"y": 1,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bubble-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 57,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "fireball-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 32
+					},
+					"frame": {
+						"x": 29,
+						"y": 29,
+						"w": 18,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fireball-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 18
+					},
+					"frame": {
+						"x": 57,
+						"y": 1,
+						"w": 32,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 18
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 32,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 85,
+						"w": 18,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fireball-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 18,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 119,
+						"w": 18,
+						"h": 31
+					}
+				},
+				{
+					"filename": "fireball-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 18,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 152,
+						"w": 18,
+						"h": 31
+					}
+				},
+				{
+					"filename": "fireball-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 185,
+						"w": 18,
+						"h": 31
+					}
+				},
+				{
+					"filename": "fireball-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 18,
+						"h": 31
+					}
+				},
+				{
+					"filename": "poisonball-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 16,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 251,
+						"w": 16,
+						"h": 32
+					}
+				},
+				{
+					"filename": "bubble-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 29,
+						"y": 63,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "poisonball-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 16,
+						"h": 32
+					},
+					"frame": {
+						"x": 49,
+						"y": 29,
+						"w": 16,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fireball-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 21,
+						"w": 31,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 27,
+						"h": 18
+					},
+					"frame": {
+						"x": 100,
+						"y": 21,
+						"w": 27,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 41,
+						"w": 31,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 27,
+						"h": 18
+					},
+					"frame": {
+						"x": 100,
+						"y": 41,
+						"w": 27,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 21,
+						"y": 87,
+						"w": 31,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fireball-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 21,
+						"y": 107,
+						"w": 31,
+						"h": 18
+					}
+				},
+				{
+					"filename": "poisonball-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 16,
+						"h": 32
+					},
+					"frame": {
+						"x": 21,
+						"y": 127,
+						"w": 16,
+						"h": 32
+					}
+				},
+				{
+					"filename": "poisonball-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 16,
+						"h": 32
+					},
+					"frame": {
+						"x": 21,
+						"y": 161,
+						"w": 16,
+						"h": 32
+					}
+				},
+				{
+					"filename": "poisonball-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 16,
+						"h": 31
+					},
+					"frame": {
+						"x": 21,
+						"y": 195,
+						"w": 16,
+						"h": 31
+					}
+				},
+				{
+					"filename": "poisonball-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 14,
+						"h": 32
+					},
+					"frame": {
+						"x": 39,
+						"y": 127,
+						"w": 14,
+						"h": 32
+					}
+				},
+				{
+					"filename": "poisonball-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 14,
+						"h": 32
+					},
+					"frame": {
+						"x": 39,
+						"y": 161,
+						"w": 14,
+						"h": 32
+					}
+				},
+				{
+					"filename": "poisonball-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 14,
+						"h": 31
+					},
+					"frame": {
+						"x": 39,
+						"y": 195,
+						"w": 14,
+						"h": 31
+					}
+				},
+				{
+					"filename": "poisonball-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 21,
+						"y": 228,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "bubble-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 53,
+						"y": 63,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "poisonball-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 16,
+						"h": 31
+					},
+					"frame": {
+						"x": 54,
+						"y": 87,
+						"w": 16,
+						"h": 31
+					}
+				},
+				{
+					"filename": "poisonball-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 77,
+						"y": 61,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "poisonball-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 32,
+						"h": 14
+					},
+					"frame": {
+						"x": 77,
+						"y": 79,
+						"w": 32,
+						"h": 14
+					}
+				},
+				{
+					"filename": "poisonball-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 14,
+						"h": 31
+					},
+					"frame": {
+						"x": 111,
+						"y": 61,
+						"w": 14,
+						"h": 31
+					}
+				},
+				{
+					"filename": "poisonball-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 72,
+						"y": 95,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "poisonball-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 32,
+						"h": 16
+					},
+					"frame": {
+						"x": 72,
+						"y": 113,
+						"w": 32,
+						"h": 16
+					}
+				},
+				{
+					"filename": "poisonball-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 3,
+						"w": 14,
+						"h": 29
+					},
+					"frame": {
+						"x": 55,
+						"y": 120,
+						"w": 14,
+						"h": 29
+					}
+				},
+				{
+					"filename": "poisonball-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 16
+					},
+					"frame": {
+						"x": 71,
+						"y": 131,
+						"w": 31,
+						"h": 16
+					}
+				},
+				{
+					"filename": "poisonball-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 14,
+						"h": 29
+					},
+					"frame": {
+						"x": 55,
+						"y": 151,
+						"w": 14,
+						"h": 29
+					}
+				},
+				{
+					"filename": "poisonball-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 31,
+						"h": 16
+					},
+					"frame": {
+						"x": 71,
+						"y": 149,
+						"w": 31,
+						"h": 16
+					}
+				},
+				{
+					"filename": "poisonball-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 31,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 167,
+						"w": 31,
+						"h": 14
+					}
+				},
+				{
+					"filename": "poisonball-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 32,
+						"h": 14
+					},
+					"frame": {
+						"x": 21,
+						"y": 246,
+						"w": 32,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fireball-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 27,
+						"h": 18
+					},
+					"frame": {
+						"x": 19,
+						"y": 262,
+						"w": 27,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 21,
+						"y": 282,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "bubble-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 21,
+						"y": 282,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "bubble-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 21,
+						"y": 282,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "fireball-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 106,
+						"y": 95,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "bubble-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 182,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "poisonball-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 31,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 183,
+						"w": 31,
+						"h": 14
+					}
+				},
+				{
+					"filename": "bubble-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 198,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "poisonball-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 29,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 199,
+						"w": 29,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fireball-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 25,
+						"h": 18
+					},
+					"frame": {
+						"x": 102,
+						"y": 199,
+						"w": 25,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 214,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "poisonball-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 29,
+						"h": 14
+					},
+					"frame": {
+						"x": 71,
+						"y": 215,
+						"w": 29,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fireball-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 25,
+						"h": 18
+					},
+					"frame": {
+						"x": 102,
+						"y": 219,
+						"w": 25,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 55,
+						"y": 230,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "fireball-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 27,
+						"h": 18
+					},
+					"frame": {
+						"x": 71,
+						"y": 231,
+						"w": 27,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 100,
+						"y": 239,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "bubble-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 100,
+						"y": 239,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "fireball-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 104,
+						"y": 131,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "fireball-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 104,
+						"y": 160,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "bubble-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 48,
+						"y": 262,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 48,
+						"y": 262,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 45,
+						"y": 282,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "fireball-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 68,
+						"y": 251,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "fireball-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 25
+					},
+					"frame": {
+						"x": 69,
+						"y": 280,
+						"w": 18,
+						"h": 25
+					}
+				},
+				{
+					"filename": "fireball-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 25
+					},
+					"frame": {
+						"x": 89,
+						"y": 263,
+						"w": 18,
+						"h": 25
+					}
+				},
+				{
+					"filename": "bubble-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 109,
+						"y": 263,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 109,
+						"y": 263,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 109,
+						"y": 283,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "bubble-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 109,
+						"y": 283,
+						"w": 18,
+						"h": 18
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:986163c982d1d656ef3739b44f6eec69:d4ed4140f46deeada97c84339dd324b1:af019c9df43c0315bbf2d16d758faea9$"
+	}
+}

@@ -1,0 +1,524 @@
+{
+	"textures": [
+		{
+			"image": "goblin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 388,
+				"h": 19
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 19,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 37,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 55,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 73,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 109,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 17
+					},
+					"frame": {
+						"x": 127,
+						"y": 1,
+						"w": 16,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 145,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 160,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 190,
+						"y": 1,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 205,
+						"y": 1,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 219,
+						"y": 1,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 233,
+						"y": 1,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 12,
+						"h": 17
+					},
+					"frame": {
+						"x": 247,
+						"y": 1,
+						"w": 12,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 261,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 279,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 297,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 315,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 333,
+						"y": 1,
+						"w": 12,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 347,
+						"y": 1,
+						"w": 12,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 361,
+						"y": 1,
+						"w": 12,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Новая папка (6)/Goblin_walk_right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 12,
+						"h": 15
+					},
+					"frame": {
+						"x": 375,
+						"y": 1,
+						"w": 12,
+						"h": 15
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5264f0da63cc8f9b27a58b4c793f63c3:99d1ee465dabc639ca6b07c313365bce:56fcc8a03b90e324aea6762dac4dd6a8$"
+	}
+}

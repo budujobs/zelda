@@ -1,0 +1,1784 @@
+{
+	"textures": [
+		{
+			"image": "flag-animation.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 120,
+				"h": 750
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bigflag-blue-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-blue-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 1,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-blue-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-blue-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 29,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-blue-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-blue-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 41,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-blue-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 57,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 81,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 81,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-blue-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 85,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-darkblue-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 113,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 121,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 121,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-darkblue-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 141,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greena-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 161,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-greena-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 161,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-darkblue-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 169,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-darkblue-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 197,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greena-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 201,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-greena-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 201,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-greena-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 225,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greenb-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 241,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-greenb-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 241,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-greena-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 253,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greenb-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 281,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-greenb-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 281,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-greena-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 281,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-greena-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 309,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-yellow-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 321,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-yellow-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 321,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-greenb-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 337,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-yellow-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 361,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bigflag-yellow-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 38
+					},
+					"frame": {
+						"x": 45,
+						"y": 361,
+						"w": 42,
+						"h": 38
+					}
+				},
+				{
+					"filename": "flag-greenb-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 365,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-greenb-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 393,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-blue-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 401,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bigflag-blue-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 45,
+						"y": 401,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "flag-greenb-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 421,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bigflag-darkblue-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 45,
+						"y": 439,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "flag-reda-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 449,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-redb-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 449,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greena-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 477,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bigflag-greena-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 45,
+						"y": 477,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "flag-reda-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 477,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-redb-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 477,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-reda-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 505,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-redb-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 505,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-greenb-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 515,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bigflag-greenb-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 45,
+						"y": 515,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "flag-reda-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 533,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-redb-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 533,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "bigflag-yellow-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 17,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 553,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bigflag-yellow-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 15,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 45,
+						"y": 553,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "flag-yellow-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 561,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellow-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 89,
+						"y": 589,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellow-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 591,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellow-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 31,
+						"y": 591,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowa-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 61,
+						"y": 617,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowb-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 61,
+						"y": 617,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowa-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 91,
+						"y": 617,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowb-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 91,
+						"y": 617,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowa-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowa-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 31,
+						"y": 619,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowb-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 31,
+						"y": 619,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-yellowb-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 61,
+						"y": 645,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag-blue-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 91,
+						"y": 645,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-blue-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 91,
+						"y": 671,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-darkblue-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 647,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-darkblue-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 647,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-greena-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-greena-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 673,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-greenb-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 61,
+						"y": 673,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-greenb-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 91,
+						"y": 697,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-reda-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 699,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-redb-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 699,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-reda-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 699,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-redb-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 699,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellow-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 61,
+						"y": 699,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellow-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 91,
+						"y": 723,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellowa-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 725,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellowb-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 725,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellowa-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 725,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag-yellowb-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 31,
+						"y": 725,
+						"w": 28,
+						"h": 24
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:91aab2e0bdaf156384a29becbf847c71:a1851ff02efdeea1e593f46f30e8d177:07f444f57c356a7b6c9aa0d17204bcd1$"
+	}
+}

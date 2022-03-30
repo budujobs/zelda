@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "chest.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 506,
+				"h": 58
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chest-animation-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 47,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 93,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 139,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 185,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 231,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 277,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 323,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 369,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 415,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				},
+				{
+					"filename": "chest-animation-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 56
+					},
+					"frame": {
+						"x": 461,
+						"y": 1,
+						"w": 44,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:39419f6d87a0ba19de55028fdc5c5086:4e4bd44e4ecf920f03a65e6c3e5d5c85:d0951faa14b608797f96616a345e52d5$"
+	}
+}

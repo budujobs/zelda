@@ -1,0 +1,5745 @@
+{
+	"textures": [
+		{
+			"image": "MC1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 126,
+				"h": 1834
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "attackb-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 7,
+						"w": 46,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 46,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.28125
+					}
+				},
+				{
+					"filename": "attackd-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 46,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 46,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.3125
+					}
+				},
+				{
+					"filename": "attackd-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 46,
+						"h": 34
+					},
+					"frame": {
+						"x": 49,
+						"y": 1,
+						"w": 46,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.859375
+					}
+				},
+				{
+					"filename": "attackb-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.8125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.84375,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 49,
+						"y": 37,
+						"w": 46,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.84375
+					}
+				},
+				{
+					"filename": "attackb-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"frame": {
+						"x": 97,
+						"y": 45,
+						"w": 28,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.1875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 28,
+						"h": 42
+					},
+					"frame": {
+						"x": 97,
+						"y": 45,
+						"w": 28,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.15625,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 46,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.828125
+					}
+				},
+				{
+					"filename": "attackb-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 46,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.8125
+					}
+				},
+				{
+					"filename": "attacka-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 46,
+						"h": 31
+					},
+					"frame": {
+						"x": 49,
+						"y": 72,
+						"w": 46,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.765625,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 97,
+						"y": 89,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 46,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 76,
+						"w": 46,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.234375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 7,
+						"w": 46,
+						"h": 30
+					},
+					"frame": {
+						"x": 49,
+						"y": 105,
+						"w": 46,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.296875
+					}
+				},
+				{
+					"filename": "attackb-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 7,
+						"w": 46,
+						"h": 30
+					},
+					"frame": {
+						"x": 49,
+						"y": 105,
+						"w": 46,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.3125
+					}
+				},
+				{
+					"filename": "magicb-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 35
+					},
+					"frame": {
+						"x": 97,
+						"y": 131,
+						"w": 28,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackd-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 13,
+						"w": 42,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 109,
+						"w": 42,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.296875
+					}
+				},
+				{
+					"filename": "attackb-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 7,
+						"w": 42,
+						"h": 48
+					},
+					"frame": {
+						"x": 45,
+						"y": 137,
+						"w": 42,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.28125
+					}
+				},
+				{
+					"filename": "attackd-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 42,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 162,
+						"w": 42,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.84375
+					}
+				},
+				{
+					"filename": "attacke-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 31,
+						"w": 36,
+						"h": 33
+					},
+					"frame": {
+						"x": 89,
+						"y": 168,
+						"w": 36,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attackb-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 42,
+						"h": 37
+					},
+					"frame": {
+						"x": 45,
+						"y": 187,
+						"w": 42,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.84375
+					}
+				},
+				{
+					"filename": "attacke-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 31,
+						"w": 36,
+						"h": 33
+					},
+					"frame": {
+						"x": 89,
+						"y": 203,
+						"w": 36,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.765625
+					}
+				},
+				{
+					"filename": "attackd-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 210,
+						"w": 41,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.828125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 41,
+						"h": 39
+					},
+					"frame": {
+						"x": 44,
+						"y": 226,
+						"w": 41,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.171875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackc-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 33,
+						"w": 38,
+						"h": 46
+					},
+					"frame": {
+						"x": 87,
+						"y": 238,
+						"w": 38,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.541667,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 33,
+						"w": 38,
+						"h": 46
+					},
+					"frame": {
+						"x": 87,
+						"y": 238,
+						"w": 38,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.541667,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 33,
+						"w": 38,
+						"h": 46
+					},
+					"frame": {
+						"x": 87,
+						"y": 238,
+						"w": 38,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.541667,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 33,
+						"w": 38,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 251,
+						"w": 38,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.458333,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 23,
+						"w": 38,
+						"h": 42
+					},
+					"frame": {
+						"x": 41,
+						"y": 267,
+						"w": 38,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.479167,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 23,
+						"w": 38,
+						"h": 42
+					},
+					"frame": {
+						"x": 41,
+						"y": 267,
+						"w": 38,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 15,
+						"w": 38,
+						"h": 42
+					},
+					"frame": {
+						"x": 41,
+						"y": 267,
+						"w": 38,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 23,
+						"w": 38,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 299,
+						"w": 38,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 27,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 81,
+						"y": 286,
+						"w": 38,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.458333,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 27,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 81,
+						"y": 286,
+						"w": 38,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 27,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 81,
+						"y": 286,
+						"w": 38,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.458333,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 27,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 41,
+						"y": 311,
+						"w": 38,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 1,
+						"w": 38,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 343,
+						"w": 38,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 38,
+						"h": 31
+					},
+					"frame": {
+						"x": 81,
+						"y": 326,
+						"w": 38,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacke-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 31,
+						"w": 36,
+						"h": 33
+					},
+					"frame": {
+						"x": 41,
+						"y": 351,
+						"w": 36,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 36,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 376,
+						"w": 36,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 36,
+						"h": 33
+					},
+					"frame": {
+						"x": 79,
+						"y": 359,
+						"w": 36,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.734375
+					}
+				},
+				{
+					"filename": "attackb-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 34,
+						"h": 39
+					},
+					"frame": {
+						"x": 39,
+						"y": 386,
+						"w": 34,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.84375,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 34,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 411,
+						"w": 34,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.15625,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 75,
+						"y": 394,
+						"w": 34,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.796875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 37,
+						"y": 427,
+						"w": 34,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.203125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attacke-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 31,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 452,
+						"w": 34,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.78125
+					}
+				},
+				{
+					"filename": "attacke-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 31,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 73,
+						"y": 429,
+						"w": 34,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.78125
+					}
+				},
+				{
+					"filename": "attacke-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 34,
+						"h": 33
+					},
+					"frame": {
+						"x": 37,
+						"y": 462,
+						"w": 34,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.71875
+					}
+				},
+				{
+					"filename": "attackc-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 33,
+						"w": 34,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 487,
+						"w": 34,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 33,
+						"w": 34,
+						"h": 32
+					},
+					"frame": {
+						"x": 73,
+						"y": 464,
+						"w": 34,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacke-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 33,
+						"w": 34,
+						"h": 31
+					},
+					"frame": {
+						"x": 37,
+						"y": 497,
+						"w": 34,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.71875
+					}
+				},
+				{
+					"filename": "teleportation-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 32,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 32,
+						"h": 53
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attackc-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 39,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 73,
+						"y": 498,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 35,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 73,
+						"y": 498,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 35,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 73,
+						"y": 498,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teleportation-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 52
+					},
+					"frame": {
+						"x": 107,
+						"y": 498,
+						"w": 18,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attackc-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 35,
+						"w": 32,
+						"h": 50
+					},
+					"frame": {
+						"x": 35,
+						"y": 530,
+						"w": 32,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 35,
+						"w": 32,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 576,
+						"w": 32,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 31,
+						"w": 32,
+						"h": 46
+					},
+					"frame": {
+						"x": 69,
+						"y": 550,
+						"w": 32,
+						"h": 46
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacke-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 32,
+						"h": 35
+					},
+					"frame": {
+						"x": 35,
+						"y": 582,
+						"w": 32,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.765625
+					}
+				},
+				{
+					"filename": "walk-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 29,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 103,
+						"y": 552,
+						"w": 22,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 29,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 103,
+						"y": 588,
+						"w": 22,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attackc-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 31,
+						"w": 32,
+						"h": 34
+					},
+					"frame": {
+						"x": 69,
+						"y": 598,
+						"w": 32,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacke-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 103,
+						"y": 624,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 32,
+						"h": 33
+					},
+					"frame": {
+						"x": 35,
+						"y": 619,
+						"w": 32,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 33,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 69,
+						"y": 634,
+						"w": 32,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.734375
+					}
+				},
+				{
+					"filename": "attacke-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 103,
+						"y": 659,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.734375,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "magica-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 626,
+						"w": 32,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 35,
+						"y": 654,
+						"w": 32,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 69,
+						"y": 667,
+						"w": 32,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacke-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 103,
+						"y": 694,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.71875,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "magica-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 32,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 57
+					},
+					"frame": {
+						"x": 35,
+						"y": 687,
+						"w": 31,
+						"h": 57
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.328125
+					}
+				},
+				{
+					"filename": "attacka-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 31,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 692,
+						"w": 31,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.3125
+					}
+				},
+				{
+					"filename": "attacka-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 45
+					},
+					"frame": {
+						"x": 68,
+						"y": 700,
+						"w": 31,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "teleportation-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 24,
+						"h": 52
+					},
+					"frame": {
+						"x": 101,
+						"y": 729,
+						"w": 24,
+						"h": 52
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacka-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 746,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.265625
+					}
+				},
+				{
+					"filename": "attacka-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 746,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magica-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 34,
+						"y": 746,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 67,
+						"y": 747,
+						"w": 31,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.28125
+					}
+				},
+				{
+					"filename": "attacka-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 25,
+						"h": 32
+					},
+					"frame": {
+						"x": 100,
+						"y": 783,
+						"w": 25,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.8125,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 67,
+						"y": 786,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 32
+					},
+					"frame": {
+						"x": 100,
+						"y": 817,
+						"w": 25,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.1875,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-down-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 34,
+						"y": 788,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 67,
+						"y": 824,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacka-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 789,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.734375
+					}
+				},
+				{
+					"filename": "attacka-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 789,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacka-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 824,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.71875
+					}
+				},
+				{
+					"filename": "magica-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 34,
+						"y": 826,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 34,
+						"y": 826,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 859,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 859,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 1,
+						"w": 24,
+						"h": 42
+					},
+					"frame": {
+						"x": 100,
+						"y": 851,
+						"w": 24,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.796875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 1,
+						"w": 24,
+						"h": 42
+					},
+					"frame": {
+						"x": 100,
+						"y": 851,
+						"w": 24,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.78125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magica-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 67,
+						"y": 859,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 34,
+						"y": 861,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-up-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 31,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 894,
+						"w": 31,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 19,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 894,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 3,
+						"w": 26,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 895,
+						"w": 26,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.265625
+					}
+				},
+				{
+					"filename": "magicb-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 34,
+						"y": 896,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackc-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 31,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5625,
+						"y": 0.479167
+					}
+				},
+				{
+					"filename": "attackc-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 31,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 33,
+						"y": 935,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.4375,
+						"y": 0.479167
+					}
+				},
+				{
+					"filename": "magica-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 65,
+						"y": 936,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 937,
+						"w": 28,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 33,
+						"y": 971,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-down-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 1000,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 65,
+						"y": 971,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 29,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 973,
+						"w": 28,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "magicb-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 33,
+						"y": 1006,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teleportation-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 1035,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "teleportation-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 65,
+						"y": 1006,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 1009,
+						"w": 28,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacka-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1041,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.78125,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1070,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.21875,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1041,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1041,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1045,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.78125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "idle-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1075,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1104,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1104,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1075,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1080,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.21875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magica-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1109,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1109,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-left-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1138,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1109,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1109,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackd-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1115,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.78125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1115,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.796875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magica-right-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1143,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1172,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1143,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackd-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1150,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.8125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1150,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.8125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magicb-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1177,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1206,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1177,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackd-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1185,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.21875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1185,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.203125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "magicb-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 33,
+						"y": 1211,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1240,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 65,
+						"y": 1211,
+						"w": 30,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackd-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1220,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.1875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1220,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.1875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "idle-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 33,
+						"y": 1245,
+						"w": 30,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 1274,
+						"w": 30,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 65,
+						"y": 1245,
+						"w": 30,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1255,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 33,
+						"y": 1278,
+						"w": 30,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 33,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 30,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 65,
+						"y": 1278,
+						"w": 30,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 65,
+						"y": 1278,
+						"w": 30,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1290,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 65,
+						"y": 1309,
+						"w": 30,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 65,
+						"y": 1309,
+						"w": 30,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1325,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 29,
+						"h": 50
+					},
+					"frame": {
+						"x": 33,
+						"y": 1311,
+						"w": 29,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.734375
+					}
+				},
+				{
+					"filename": "attacka-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 29,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 1340,
+						"w": 29,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "magica-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 19,
+						"w": 29,
+						"h": 42
+					},
+					"frame": {
+						"x": 64,
+						"y": 1340,
+						"w": 29,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-up-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 32,
+						"y": 1363,
+						"w": 29,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attackb-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 29,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1386,
+						"w": 29,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.828125
+					}
+				},
+				{
+					"filename": "attackd-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 1,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 1360,
+						"w": 29,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.265625
+					}
+				},
+				{
+					"filename": "attackd-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 3,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 63,
+						"y": 1384,
+						"w": 29,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.28125
+					}
+				},
+				{
+					"filename": "attackd-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 5,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 63,
+						"y": 1384,
+						"w": 29,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.28125
+					}
+				},
+				{
+					"filename": "attackb-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 29,
+						"h": 33
+					},
+					"frame": {
+						"x": 32,
+						"y": 1403,
+						"w": 29,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-down-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 29,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 1425,
+						"w": 29,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackd-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 29,
+						"h": 30
+					},
+					"frame": {
+						"x": 94,
+						"y": 1396,
+						"w": 29,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.8125
+					}
+				},
+				{
+					"filename": "attackd-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 29,
+						"h": 30
+					},
+					"frame": {
+						"x": 63,
+						"y": 1420,
+						"w": 29,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.828125
+					}
+				},
+				{
+					"filename": "attackd-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 29,
+						"h": 30
+					},
+					"frame": {
+						"x": 63,
+						"y": 1420,
+						"w": 29,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.828125
+					}
+				},
+				{
+					"filename": "attackb-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 32,
+						"y": 1438,
+						"w": 29,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.8125
+					}
+				},
+				{
+					"filename": "attackd-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 1460,
+						"w": 29,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.796875
+					}
+				},
+				{
+					"filename": "magicb-down-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 94,
+						"y": 1428,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-down-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 63,
+						"y": 1452,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-down-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 28,
+						"h": 33
+					},
+					"frame": {
+						"x": 32,
+						"y": 1469,
+						"w": 28,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacka-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1491,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.765625,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1491,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.78125,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 93,
+						"y": 1463,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.234375,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "attacka-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 93,
+						"y": 1463,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.21875,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 62,
+						"y": 1487,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 62,
+						"y": 1487,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 31,
+						"y": 1504,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1525,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magicb-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1525,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 92,
+						"y": 1497,
+						"w": 28,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-down-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 35,
+						"w": 28,
+						"h": 29
+					},
+					"frame": {
+						"x": 61,
+						"y": 1521,
+						"w": 28,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-down-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 35,
+						"w": 28,
+						"h": 29
+					},
+					"frame": {
+						"x": 31,
+						"y": 1538,
+						"w": 28,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-up-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 29,
+						"w": 26,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1559,
+						"w": 26,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-up-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 29,
+						"w": 26,
+						"h": 34
+					},
+					"frame": {
+						"x": 91,
+						"y": 1531,
+						"w": 26,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-up-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 26,
+						"h": 33
+					},
+					"frame": {
+						"x": 61,
+						"y": 1552,
+						"w": 26,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-up-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 26,
+						"h": 33
+					},
+					"frame": {
+						"x": 29,
+						"y": 1569,
+						"w": 26,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "magica-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1595,
+						"w": 26,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "magica-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 89,
+						"y": 1567,
+						"w": 26,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-up-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 35,
+						"w": 26,
+						"h": 29
+					},
+					"frame": {
+						"x": 57,
+						"y": 1587,
+						"w": 26,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-up-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 35,
+						"w": 26,
+						"h": 29
+					},
+					"frame": {
+						"x": 29,
+						"y": 1604,
+						"w": 26,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attackb-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 1629,
+						"w": 24,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.203125,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "attackb-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 24,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 1629,
+						"w": 24,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.21875,
+						"y": 0.25
+					}
+				},
+				{
+					"filename": "walk-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 29,
+						"w": 24,
+						"h": 34
+					},
+					"frame": {
+						"x": 85,
+						"y": 1601,
+						"w": 24,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 29,
+						"w": 24,
+						"h": 34
+					},
+					"frame": {
+						"x": 57,
+						"y": 1618,
+						"w": 24,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 24,
+						"h": 29
+					},
+					"frame": {
+						"x": 27,
+						"y": 1635,
+						"w": 24,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 35,
+						"w": 24,
+						"h": 29
+					},
+					"frame": {
+						"x": 83,
+						"y": 1637,
+						"w": 24,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 53,
+						"y": 1654,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.71875,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 27,
+						"y": 1666,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.75,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 1673,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.765625,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 77,
+						"y": 1668,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 51,
+						"y": 1689,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.265625,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 25,
+						"y": 1701,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.28125,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 1708,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.28125,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 101,
+						"y": 1668,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.25,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "attacke-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 75,
+						"y": 1703,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.234375,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 49,
+						"y": 1724,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 25,
+						"y": 1736,
+						"w": 22,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "idle-left-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1743,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-left-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1743,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-left-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1703,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-right-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1737,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-right-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1737,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-right-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 32
+					},
+					"frame": {
+						"x": 73,
+						"y": 1738,
+						"w": 22,
+						"h": 32
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 22,
+						"h": 31
+					},
+					"frame": {
+						"x": 49,
+						"y": 1759,
+						"w": 22,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 22,
+						"h": 31
+					},
+					"frame": {
+						"x": 25,
+						"y": 1771,
+						"w": 22,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-left-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 33,
+						"w": 22,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 1777,
+						"w": 22,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "idle-left-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 25,
+						"y": 1804,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 25,
+						"y": 1804,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-right-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 33,
+						"w": 22,
+						"h": 31
+					},
+					"frame": {
+						"x": 97,
+						"y": 1771,
+						"w": 22,
+						"h": 31
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "idle-right-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 73,
+						"y": 1772,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "idle-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 73,
+						"y": 1772,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "walk-left-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 49,
+						"y": 1792,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				},
+				{
+					"filename": "walk-right-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 22,
+						"h": 29
+					},
+					"frame": {
+						"x": 73,
+						"y": 1803,
+						"w": 22,
+						"h": 29
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.75
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:25fefd058d3db35ca668c0511115b465:9002793523bd7075babe5b9e5e4c0b52:abf9dd7ee885d17d9ff7d0438f47809e$"
+	}
+}

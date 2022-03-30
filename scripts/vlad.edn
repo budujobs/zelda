@@ -1,0 +1,543 @@
+{"hub-info"        {:init       {:text "Привет!" :actions [{:text "Где я?" :next :about-1} {:text "Мы уже общались"}]}
+                    :about-1    {:text "Ты в игровой |style;text-cyan;карьерной выставке| от |link;https://budu.jobs/;Буду| и |link;https://vc.ru/;vc.ru|" :actions [{:text "И что тут делать?" :next :about-2}]}
+                    :about-2    {:text "Играть и искать работу! В нашей выставке |style;text-cyan;24| компании и у каждой свой |style;text-cyan;уникальный дом|." :actions [{:text "Что за дом?" :next :houses}]}
+                    :about-3    {:text "Еще скоро будет можно |style;text-cyan;сражаться с коронавирусом| в открытом мире, |style;text-cyan;помогать заражённым| и  |style;text-cyan;искать секретики|." :actions [{:text "Классно. Хочу играть!" :next :about-4}]}
+                    :about-4    {:text "Тебе нужна инструкция по управлению?" :actions [{:text "Давай" :next :tutorial-1} {:text "Разберусь" :next :tutorial-2}]}
+                    :houses     {:text "В домах можно общаться с персонажами, узнавать про стажировки или вакансии и даже откликаться." :actions [{:text "Вау" :next :about-3}]}
+                    :tutorial-1 {:text "|style;text-cyan;Бегать| — стрелки на клавиатуре или кнопки WASD. |style;text-cyan;Взаимодействовать| с окружением — пробел. С телефонов управление видно на экране" :actions [{:text "Понятно" :next :tutorial-2}]}
+                    :tutorial-2 {:text "Самое главное — в мире выставки у тебя будет |style;text-cyan;карта (правый верхний угол)|. Её можно раскрыть, чтобы увидеть расположение всех домов и сразу телепортироваться в нужный." :actions [{:text "Можно уже поиграть?" :next :tutorial-3}]}
+                    :tutorial-3 {:text "Конечно! Прыгай в |style;text-cyan;телепорт слева|." :actions [{:text "Супер, спасибо"}]}}
+
+
+"budu-vlad"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Влад из Буду"
+                    
+
+                    :init    {:text "Приветик" :actions [{:text "А где все?" :next :talk-1}]}
+
+                    :talk-1  {:text "Кажется, вышли покурить. Как тебе игра?" :actions [{:text "Круто! А чем вы занимаетесь?" :next :about-1} {:text "Ну, так" :next :bad}]}
+
+                    :about-1 {:text "Мы молодой стартап, придумываем новые креативные решения для HR сферы. Эта игра как раз один из таких проектов." :actions [{:text "А есть другие проекты?" :next :about-2}]}
+
+                    :about-2 {:text "Наш главный проект это джоб-борд |link;https://budu.jobs;budu.jobs|. Там размещают вакансии только для ребят с |style;text-yellow;маленьким опытом| или
+                    вовсе без него. Всё это завернуто в крутой дизайн и безумно удобный интерфейс. Обязательно зацени |style;text-yellow;заполнение резюме в формате чата|." :actions [{:text "Ого"}]}
+
+                    :bad 				{:text ":(\nЕсли тебе что-то не понравилось, можешь написать мне об этом на почту |link;mailto:vlad@budu.jobs;vlad@budu.jobs|. 
+                    Или, если очень смелый, то прямо в телеграм: |link;https://teleg.run/waltan;@waltan|" :actions [{:text "Ну держись"}]}
+                   }
+
+"main-local"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Местный житель"
+                    
+
+                    :init    {:text "О, здравствуй, путник." :actions [{:text "Приветик" :next :talk-1}]}
+
+                    :talk-1    {:text "Каждый утро на рассвете я выхожу голый на берег и исполняю часовой танец во славу священного краба. А как ты восхваляешь священного краба?" 
+                    											:actions [{:text "Что за священный краб?" :next :crab-1}{:text "Понял. Всего хорошего." :next :praisethecrab}]}
+
+                    :crab-1  {:text "Как ты можешь не знать про священного краба?!" 
+                    											:actions [{:text "Я не местный..." :next :crab-2}]}
+
+																				:crab-2  {:text "Священный космический краб даровал жизнь всему этому миру. Каждый кустик на этой карте — дело клешней священного краба. Да ты дышишь только лишь потому, что
+																				священный краб тебе позволяет. Ты ДОЛЖЕН знать про него с рождения. Ты ОБЯЗАН его восхалять." 
+                    											:actions [{:text "Ваш мир — симуляция. Вы внутри игры." :next :crab-3}]}
+
+																				:crab-3  {:text "Ты совсем больной?" 
+                    											:actions [{:text "Всё, пока." :next :praisethecrab}]}
+
+                    :praisethecrab  {:text "Слава священному крабу!" 
+                    											:actions [{:text "..."}]}
+
+
+                   }
+
+"main-local-1"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Местный житель"
+                    
+
+                    :init    {:text "Ты тоже с выставки?" :actions [{:text "А что такое?" :next :talk-1}]}
+
+                    :talk-1  {:text "Что такое?? Да ты посмотри! У меня окна выходят на выхлопную трубу этой огромной машины! Раньше был такой красивый остров.
+                    Я здесь вырос и дед мой отца вырастил. А потом понаехали эти все, понастроили тут своих яиц и чипсов, ни пройти ни проехать." 
+
+
+                    :actions [{:text "Все не так плохо..." :next :end-1} {:text "..."}]}
+
+                    :end-1    {:text "Все ужасно! Ты видел как цены на овощи подскочили? Раньше было лучше." :actions [{:text "Ок, бумер"}]}
+
+
+
+                   }
+
+"main-local-2"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Местный житель"
+                    
+
+                    :init    {:text "Приветствую тебя, прекрасный незнакомец!" :actions [{:text "Вы очень счастливый" :next :talk-1}]}
+
+                    :talk-1  {:text "В точку! На то есть свои причины" :actions [{:text "Какие?" :next :talk-2}]}
+
+                    :talk-2  {:text "Ну... а ты точно никому не расскажешь?" :actions [{:text "Точно" :next :talk-3}]}
+
+                    :talk-3  {:text "Хорошо. Смотри, по ночам я таскаю чипсы с замка PepsiCo и ворую овощи с огорода Danone, 
+                    а потом продаю местным с наценкой. Приезд компаний на этот богом забытый остров — это лучшее, что с ним случалось!" 
+
+
+                    :actions [{:text "Я слышал другое мнение" :next :talk-4}{:text "Понятно"}]}
+
+                    :talk-4  {:text "Готов поставить пачку Lay's с крабом на то, что это был тот дед с северной части острова." :actions [{:text "Зря вы так про краба"}]}
+
+
+                   }
+
+"sanit"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Прохожий"
+                    
+
+                    :init    {:text "Псс.. эй" :actions [{:text "???" :next :talk-1}]}
+
+                    :talk-1  {:text "У меня тут санитайзеры есть. Хочешь?" :actions [{:text "Давай" :next :yes-1} {:text "Нет" :next :no-1}]}
+
+
+
+                    :yes-1  {:text "Одна баночка 100 голды. Идёт?" :actions [{:text "А сколько это в рублях?" :next :rubles-1} {:text "Дороговато" :next :no-1}]}
+
+
+
+                    :rubles-1  {:text "Что такое рубли?" :actions [{:text "Долгая история" :next :rubles-2}]}
+
+                    :rubles-2  {:text "Странный ты. Ты точно местный?" :actions [{:text "(молча уйти)"}]}
+
+
+
+                    :no-1  {:text "Подумай о своём здоровье! Чтобы не дай бог не подхватить вирус, всегда стоит иметь при себе баночку." :actions [{:text "Вирус в виртуальном мире?" :next :virus-1}]}
+
+                    :virus-1  {:text "В смысле виртуальном?" :actions [{:text "Ой" :next :virus-2}]}
+
+                    :virus-2  {:text "Погоди погоди, в каком смысле виртуальном??" :actions [{:text "(убежать)"}]}
+
+                   }
+
+"taxi-promo-1"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Ситимобил"
+                    
+
+                    :init    {:text "Скидка 10% на первые 10 поездок:\nПромокод: |style;text-yellow;восемьбит|" :actions [{:text "Круто! Какие условия?" :next :event-1}]}
+                    :event-1 {:text "Промокод предоставляет скидку |style;text-yellow;10%| на каждую из первых 10 поездок от 50 Р каждая. 
+                    																	Скидка действует с 16.06.2020 по 31.07.2020 для новых клиентов при заказе через приложение. 
+                    																	Подробности на |link;https://city-mobil.ru/promo/;https://city-mobil.ru/promo/|. |style;text-yellow;Ситимобил| — информационный сервис, не является перевозчиком." :actions [{:text "..."}]}
+                   }
+
+"taxi-promo-2"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Ситимобил"
+                    
+
+                    :init    {:text "Скидка 10% на первые 10 поездок:\nПромокод: |style;text-yellow;восемьбит|" :actions [{:text "Круто! Какие условия?" :next :event-1}]}
+                    :event-1 {:text "Промокод предоставляет скидку |style;text-yellow;10%| на каждую из первых 10 поездок от 50 Р каждая. 
+                    																	Скидка действует с 16.06.2020 по 31.07.2020 для новых клиентов при заказе через приложение. 
+                    																	Подробности на |link;https://city-mobil.ru/promo/;https://city-mobil.ru/promo/|. |style;text-yellow;Ситимобил| — информационный сервис, не является перевозчиком." :actions [{:text "..."}]}
+                   }
+
+"taxi-promo-3"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Ситимобил"
+                    
+
+                    :init    {:text "Скидка 10% на первые 10 поездок:\nПромокод: |style;text-yellow;восемьбит|" :actions [{:text "Круто! Какие условия?" :next :event-1}]}
+                    :event-1 {:text "Промокод предоставляет скидку |style;text-yellow;10%| на каждую из первых 10 поездок от 50 Р каждая. 
+                    																	Скидка действует с 16.06.2020 по 31.07.2020 для новых клиентов при заказе через приложение. 
+                    																	Подробности на |link;https://city-mobil.ru/promo/;https://city-mobil.ru/promo/|. |style;text-yellow;Ситимобил| — информационный сервис, не является перевозчиком." :actions [{:text "..."}]}
+                   }
+
+ ;; --------- мейн карта ---------
+
+
+ 
+
+
+
+
+"bug-police-1"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "???"
+                    
+
+                    :init    {:text "Покиньте территорию." :actions [{:text "А что случилось?" :next :event-1} {:text "Ухожу"}]}
+                    :event-1 {:text "Произошел баг, мы уже работаем над его устранением. Пожалуйста. Покиньте территорию." :actions [{:text "..."}]}
+                   }
+
+"bug-police-2"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Прохожий"
+                    
+
+                    :init    {:text "Никогда такого не было и вот опять" :actions [{:text "Всё серьезно?" :next :event-1}]}
+                    :event-1 {:text "Слишком часто баги последнее время происходят. Чую, не к добру это. Надо бы на другую карту переезжать..." :actions [{:text "..."}]}
+                   }
+
+"no-mask"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Прохожий"
+                    
+
+                    :init    {:text "Ты почему без маски?" :actions [{:text "Карантин закончился же" :next :event-1}]}
+                    :event-1 {:text "В смысле? Когда?" :actions [{:text "Недавно объявили, с 9 июня" :next :event-2}]}
+                    :event-2 {:text "Понял. Ну, этот диалог мне прописали в мае" :actions [{:text "..."}]}
+                   }  
+
+ "no-mask-1"
+                   {
+                   	:param/avatar-src        "none.svg"
+                    :param/avatar-name       "Прохожий"
+                    
+
+                    :init    {:text "Видел мужика, который спрашивает про маску?" :actions [{:text "Ага" :next :yes}{:text "Нет" :next :no}]}
+                    :yes {:text "Короче, он гонит про май. Диалог ему прописали за сутки до релиза, как и мой." :actions [{:text "Вот оно что"}]}
+                    :no {:text "Тогда забей..." :actions [{:text "..."}]}
+                   }                                 
+
+
+ "main-casual-1"
+                   {:init {:text "Говорят, на севере стоит замок в виде машины." :actions [{:text "..."}]}}
+
+ "freelancer"
+                   {:init    {:text "а? чт- ЧТОО?! КАКОГО ЧЁРТА ТЫ ДЕЛАЕШЬ У МЕНЯ В ДОМЕ??? Я ЖЕ ВЫБРАЛ ОСТАВИТЬ ЗАКАЗ У ДВЕРИ!!" :actions [{:text "Какой заказ?" :next :order-1}]}
+                    :order-1 {:text "МОЙ ЗАКАЗ. ЕДА, Я.. я заказывал еду. Ты же курьер?" :actions [{:text "Я не курьер" :next :order-2} {:text "Слишком вкусно пахло, я не удержался..." :next :end}]}
+                    :order-2 {:text "Ох, сразу бы сказал. Ты меня до чёртиков перепугал. Ладно, как там снаружи? Вирус уже прошел?" :actions [{:text "Да, можешь выходить" :next :yes} {:text "Нет" :next :no}]}
+
+                    :yes     {:text "Супер! Хотя... я никуда особо и не собирался. Кстати, слушай, у меня тут промокод на скидку есть, хочешь?" :actions [{:text "Конечно"}]}
+
+                    :no      {:text "Окей, я никуда особо и не собирался." :actions [{:text "..."}]}
+                    :end     {:text "ТАК, НУ ВСЁ, Я ПИШУ В ПОДДЕРЖКУ. Можешь начинать искать новую работу!" :actions [{:text "..."}]}
+                    }
+
+ "main-dev-1"
+                   {:init    {:text "ТАК, ПО ВОДЕ БЕГАТЬ НЕЛЬЗЯ" :actions [{:text "Но ты сам стоишь на воде" :next :cheat-1}]}
+                    :cheat-1 {:text "Я эту воду своими руками в редакторе по тайлам расставлял, мне можно! А ты, похоже, читер. Щас я тебя по ойпи забаню" :actions [{:text "Подожди, я не читер!" :next :cheat-2} {:text "Мамку свою забань)0" :next :ban}]}
+                    :cheat-2 {:text "Тогда объясняй, почему ты бегаешь по воде" :actions [{:text "Не знаю, это все меч ваш дурацкий" :next :cheat-3}]}
+                    :cheat-3 {:text "Ааа, меч. Точно! Я его для дебага оставлял. Ну хорошо. Пользуйся, пока есть возможность :)" :actions [{:text "Кайф"}]}
+
+
+                    :ban     {:text "|style;text-red;Забанен.|" :actions [{:text "..."}]}
+                    }
+
+ "main-hazard-1"
+                   {:init    {:text "Воу, воу, дружище, надень маску или уходи скорее!" :actions [{:text "А что случилось?" :next :event-1} {:text "Ухожу"}]}
+                    :event-1 {:text "Ты разве не слышал? Наш мир атаковал опасный вирус, сейчас все перекрываем и вводим карантин." :actions [{:text "Я тут недавно" :next :event-2}]}
+                    :event-2 {:text "Понял тебя. Ну, смотри. Там за стеной есть целая деревня. Мы сейчас набираем людей для сражения с вирусом и помощи заражённым. Интересно?" :actions [{:text "Да" :next :yes} {:text "Ну уж нет"}]}
+                    :yes     {:text "Отлично, запишу тебя в список волонтеров. Мы продумаем план действий и подготовим снаряжение, а ты возвращайся через пару дней." :actions [{:text "Договорились"}]}
+                    }
+
+ "main-hazard-2"
+                   {:init    {:text "Я видел его... он был совсем рядом!" :actions [{:text "Кто?" :next :virus-1} {:text "*уйти*"}]}
+                    :virus-1 {:text "Вирус! Своими глазами! Представляешь??" :actions [{:text "Расскажи про него" :next :virus-2}]}
+                    :virus-2 {:text "Как щас помню — круглая дрянь размером с человека, парит над землей... Некоторые даже плюют мерзкой зелёной жижей." :actions [{:text "Пойду-ка я отсюда..."}]}
+                    }
+
+
+ ;; --------- разговоры в офисе	---------
+
+ "megafon-casual-1"
+                   {:init {:text "Привет!" :actions [{:text "А почему здание Yota отдельно?" :next :yota}]}
+                    :yota {:text "У них переходный возраст, они уже взрослые и могут жить самостоятельно." :actions [{:text "..."}]}
+                    }
+ "megafon-casual-2"
+                   {:init {:text "Тряси тряси смартфон" :actions [{:text "Я за прозрачность" :next :yes} {:text "Не хочу"}]}
+                    :yes  {:text "Шаришь!" :actions [{:text "Ага"}]}
+                    }
+
+ "pepsi-casual-1"
+                   {:init {:text "Привет!" :actions [{:text "«Кубанская бурёнка» — это тоже Pepsico?" :next :what}]}
+                    :what {:text "Ага, а ещё «Весёлый молочник»" :actions [{:text "..."}]}
+                    }
+
+ "pepsi-casual-2"
+                   {:init {:text "Я видел как мой коллега пил напиток из бутылки с красной этикеткой" :actions [{:text "Предатель!" :next :what}]}
+                    }
+
+ "playrix-casual-1"
+                   {:init {:text "Построил такой классный сад в Gardenscapes, смотри" :actions [{:text "Красиво, добавляйся в друзья"}]}
+                    }
+ "playrix-casual-2"
+                   {:init {:text "Привет!" :actions [{:text "Почему ты выглядишь как Лиля?" :next :egor}]}
+                    :egor {:text "Ой. Наверное, баг." :actions [{:text "..."}]}
+                    }
+
+
+ "yota-casual-1"
+                   {:init {:text "Это просто диалог с NPC в домике Yota" :actions [{:text "Да-да, хорошая была реклама"}]}
+                    }
+
+ "yota-casual-2"
+                   {:init {:text "Извините, для этого NPC не написали диалог " :actions [{:text "Да-да, хорошая была реклама"}]}
+                    }
+
+
+ "severstal-casual-1"
+                   {:init {:text "Привет" :actions [{:text "Север помнит!" :next :got}]}
+                    :got  {:text "Это из того прошлогоднего сериала?" :actions [{:text "..."}]}
+                    }
+
+ "severstal-casual-2"
+                   {:init {:text "Чтобы понять жизнь, достаточно один раз побывать в Череповце" :actions [{:text "..."}]}}
+
+ "mars-casual-1"
+                   {:init {:text "Интересно, когда Илон Маск полетит колонизировать Марс, он возьмёт с собой нашу шоколадку?" :actions [{:text "..."}]}
+                    }
+ "mars-casual-2"
+                   {:init {:text "Сколько разных вкусов у сникерса ты знаешь?" :actions [{:text "Эээээээм..." :next :what}]}
+                    :what {:text "Не тормози :)" :actions [{:text "..."}]}
+                    }
+
+ "cola-casual-1"
+                   {:init   {:text "Веселье приносит" :actions [{:text "и вкус бодрящий" :next :song-1}]}
+                    :song-1 {:text "Праздника вкус" :actions [{:text "всегда настоящий!" :next :song-2}]}
+                    :song-2 {:text "А ты хорош" :actions [{:text "Ты тоже ничего"}]}
+                    }
+
+
+ ;; --------- сбер	---------
+
+ "sber-casual-1"
+                   {:init {:text "Где карту получали туда и..." :actions [{:text "Что?" :next :what}]}
+                    :what {:text "Ой, извини, скрипт десятилетней давности сработал" :actions [{:text "..."}]}
+                    }
+
+ "sber-casual-2"
+                   {:init {:text "Знаешь, почему я не боюсь, что меня заменит робот?" :actions [{:text "Почему?" :next :what}]}
+                    :what {:text "Я уже NPC в виртуальной выставке, зачем мне бояться" :actions [{:text "..."}]}
+                    }
+
+ "sber-casual-3"
+                   {:init {:text "Уже жду новую карьерную выставку в VR" :actions [{:text "..."}]}
+
+                    }
+
+ "sber-casual-4"
+                   {:init {:text "Знаешь, какой бренд самый сильный в мире?" :actions [{:text "Неа" :next :what}]}
+                    :what {:text "Ferrari. А второй — Сбербанк. Но мы их ещё догоним!" :actions [{:text "..."}]}
+                    }
+
+ ;; --------- домрф	---------
+
+ "domrf-casual-1"
+                   {:init {:text "Сидишь дома?" :actions [{:text "Да" :next :what}]}
+                    :what {:text "А мог бы работать в Доме!" :actions [{:text "..."}]}
+                    }
+
+ "domrf-casual-2"
+                   {:init {:text "Возьми ипотеку" :actions [{:text "Не" :next :what}]}
+                    :what {:text "Ну возьми, ну чего ты" :actions [{:text "..."}]}
+                    }
+
+ "domrf-casual-3"
+                   {:init {:text "Уже нашел секретную кнопку, которая делает графику 16bit, а не 8?" :actions [{:text "Кажется, нет" :next :what}]}
+                    :what {:text "Ищи лучше!" :actions [{:text "..."}]}
+                    }
+
+
+ ;; --------- газпром	---------
+
+ "gaz-casual-1"
+                   {:init {:text "Переходи на синий!" :actions [{:text "Но мама говорила только на зелёный можно" :next :what}]}
+                    :what {:text "Мы поговорим с производителями светофоров" :actions [{:text "..."}]}
+                    }
+
+ "gaz-casual-2"
+                   {:init {:text "Я когда устраивался на эту работу, не думал, что придется стоять в виртуальном замке" :actions [{:text "И как оно?" :next :what}]}
+                    :what {:text "Лучше, чем на настоящей карьерной выставке — ноги не устают" :actions [{:text "..."}]}
+                    }
+
+ "gaz-casual-3"
+                   {:init {:text "Оцените качество диалогов с нашими NPC от одного до пяти" :actions [{:text "Пять" :next :what}]}
+                    :what {:text "Спасибо! Надеюсь ты не ставишь пять всем подряд, чтобы просто не обидеть" :actions [{:text "..."}]}
+                    }
+
+
+ ;; --------- pg	---------
+
+ "pg-casual-1"
+                   {:init {:text "У меня дома вся бытовая химия от нашей компании" :actions [{:text "Опять зарплату порошком выдали?" :next :what}]}
+                    :what {:text "Ой, отстань" :actions [{:text "..."}]}
+                    }
+
+ "pg-casual-2"
+                   {:init {:text "В детстве обожал Chrono Trigger и Final Fantasy" :actions [{:text "А теперь?" :next :what}]}
+                    :what {:text "Теперь я NPC с двумя репликами в виртуальной выставке!" :actions [{:text "..."}]}
+                    }
+
+ "pg-casual-3"
+                   {:init {:text "Видел квартирник Басты на ютубе?" :actions [{:text "Как-то пропустил" :next :what}]}
+                    :what {:text "Это мы сделали кампанию #ДалекоНоВместе" :actions [{:text "..."}]}
+                    }
+
+
+ ;; --------- такси	---------
+
+ "siti-casual-1"
+                   {:init {:text "Слышал, что мы переехали в гараж Сбербанка?" :actions [{:text "Не-а" :next :what}]}
+                    :what {:text "Правда на выставке всё равно пришлось отдельный замок строить." :actions [{:text "..."}]}
+                    }
+
+ "siti-casual-2"
+                   {:init {:text "Уже пробовал таксипортацию?" :actions [{:text "Что?" :next :what}]}
+                    :what {:text "А, блин, здесь только обычные телепорты" :actions [{:text "..."}]}
+                    }
+
+ "siti-casual-3"
+                   {:init {:text "Как тебе в нашем замке?" :actions [{:text "*"} {:text "**"} {:text "***"} {:text "****"} {:text "*****"}]}
+                    }
+
+ "siti-casual-4"
+                   {:init {:text "Сделали бесплатными поездки для врачей в Подмосковье" :actions [{:text "Ого, круто" :next :what}]}
+                    :what {:text "А ты постарайся никуда не ездить, чтобы им не пришлось ехать к тебе" :actions [{:text "Ок"}]}
+                    }
+
+ ;; --------- сиги	---------
+
+ "pmi-casual-1"
+                   {:init {:text "Сыграем?" :actions [{:text "Не сейчас"}]}
+
+                    }
+
+ "pmi-casual-2"
+                   {:init {:text "|style;text-cyan;INKOMPASS| — программа стажировок, через которую в PMI легче всего попасть новичку. Ты сможешь выбрать одно из 7 направлений — маркетинг, продажи, HR, финансы, производство, развитие организации и обучение персонала — и развиваться в нём, а ещё работать по гибкому графику и получать зарплату. |link;https://pmiru.avature.net/InKompass/ApplicationMethods?jobId=5861&source=InKompass&tags=budu; Подать заявку.|" :actions [{:text "..."}]}
+
+                    }
+
+ "pmi-casual-3"
+                   {:init {:text "Привет. Тебе повезло встретить редкого NPC." :actions [{:text "Круто" :next :what}]}
+					:what {:text "Поговори с Алисой внутри замка. " :actions [{:text "Спасибо"}]}
+
+                    }
+
+ "pmi-casual-4"
+                   {:init {:text "" :actions [{:text "" :next :what}]}
+
+                    }
+
+
+
+
+ "office-casual-1" {:init  {:text "Зацени мою красную кружку" :actions [{:text "Прикольно" :next :cup-1} {:text "Обычная кружка" :next :cup-2}]}
+                    :cup-1 {:text "Ага, мне её мама подарила" :actions [{:text "..."}]}
+                    :cup-2 {:text ":(" :actions [{:text "..."}]}}
+
+
+
+ "office-casual-2"
+                   {:init {:text "Работаю здесь уже второй год, и до сих пор не могу понять — настоящий это цветок или искусственный" :actions [{:text "..."}]}}
+
+ "office-casual-3"
+                   {:init {:text "Мне кажется, Мир дикого запада скатился после второго сезона" :actions [{:text "Согласен"} {:text "Что это?" :next :what}]}
+                    :what {:text "Это сериал. Он про роботов, которые обрели сознание." :actions [{:text "..."}]}}
+ "office-casual-4"
+                   {:init {:text "Когда останавливаешь микроволнову на последней секунде, кажется, будто обезвредил бомбу..." :actions [{:text "Ха-ха"}]}}
+
+ "office-casual-5"
+                   {:init {:text "Я прочитал здесь все книги!" :actions [{:text "Ого"}]}}
+
+ "office-casual-6"
+                   {:init {:text "Отлично выглядишь" :actions [{:text "Спасибо..."}]}}
+
+ "office-casual-7"
+                   {:init {:text "Знаешь как называется наша программа для удобной организации городской среды?" :actions [{:text "Диджитал Варламов?" :next :what}]}
+                    :what {:text "Ха-ха, смешно. Нет, «Разумный город»" :actions [{:text "..."}]}}
+
+ "office-casual-8"
+                   {:init {:text "Обожаю Во все тяжкие, мой любимый сериал!" :actions [{:text "Угу"}]}}
+
+ "office-casual-9"
+                   {:init {:text "Как тебе интерьер? Сочетание цветов?" :actions [{:text "Огонь"}]}}
+
+ "office-casual-10"
+                   {:init {:text "Чтобы хорошо работать, нужно хорошо отдыхать" :actions [{:text "Верно"}]}}
+
+ "office-casual-11"
+                   {:init {:text "Наконец-то купила себе всякой косметики! У нас тут, кстати, свой магазин со скидками для сотрудников есть." :actions [{:text "Интересно"}]}}
+
+ "office-casual-12"
+                   {:init {:text "Этот парень ходит здесь кругами целый день..." :actions [{:text "Жуть"}]}}
+
+ "office-casual-13"
+                   {:init {:text "Со дня на день будет скидка на чебупели. Только никому не говори!" :actions [{:text "Ок"}]}}
+
+ "office-casual-14"
+                   {:init {:text "Привет!" :actions [{:text "А вы этот телевизор через свой сайт купили?" :next :haha}]}
+                    :haha {:text "Ха-ха" :actions [{:text "..."}]}
+                    }
+
+ "office-casual-15"
+                   {:init {:text "Я как-то хотел сделать свой бизнес по уборке снега, но пришлось бы работать в минус..." :actions [{:text "..."}]}}
+
+ "office-casual-16"
+                   {:init {:text "Прости, важный звонок, давай позже поговорим" :actions [{:text "..."}]}}
+
+ "office-casual-17"
+                   {:init {:text "Приветик" :actions [{:text "Чем занимаешься?" :next :tea}]}
+                    :tea  {:text "Пытаюсь смешать латте с какао. Интересно, что из этого вылупится" :actions [{:text "..."}]}}
+
+ "office-casual-18"
+                   {:init {:text "Сколько нужно специалистов КРОК, чтобы перевети звонок на нужного человека?" :actions [{:text "Сколько?" :next :what}]}
+                    :what {:text "Ноль! У нас этим занимается специальный бот" :actions [{:text "..."}]}}
+
+ ;; --------- разговоры про еду ---------
+
+ "office-casual-coffee-1"
+                   {:init {:text "Обожаю латте и горячий шоколад!" :actions [{:text "..."}]}}
+
+ "office-casual-coffee-2"
+                   {:init {:text "Кушаешь витамины?" :actions [{:text "Да" :next :yes} {:text "Нет" :next :no}]}
+                    :yes  {:text "Молодец" :actions [{:text ":)"}]}
+                    :no   {:text "Надо кушать." :actions [{:text "Ладно"}]}
+                    }
+
+ "office-casual-coffee-3"
+                   {:init {:text "Завтра рейд в Last Oasis, не забудь, все должны быть в сборе" :actions [{:text "Хорошо!"}]}
+
+                    }
+
+ "office-casual-coffee-4"
+                   {:init {:text "Кстати! Мы не используем одноразовую посуду. А еще ведём раздельный сбор мусора и батареек." :actions [{:text "Круто"}]}}
+
+ "office-casual-coffee-5"
+                   {:init {:text "Сендвич или батончик?" :actions [{:text "Сендвич" :next :eat} {:text "Батончик" :next :eat}]}
+                    :eat  {:text "Будь по-твоему" :actions [{:text ":)"}]}
+                    }
+
+ "office-casual-coffee-6"
+                   {:init {:text "Ты знал, что арахис это не орех?" :actions [{:text "Да"} {:text "В смысле?" :next :no}]}
+                    :no   {:text "Арахис из семейства бобовых. Он ближе к фасоли, чем к орехам." :actions [{:text "А вы, смотрю, хорошо в орехах разбираетесь" :next :nuts}]}
+                    :nuts {:text "И в «не орехах» тоже ;)" :actions [{:text ";)"}]}
+
+                    }
+
+ ;; --------- разговоры про принтер?? ---------
+
+ "office-casual-printer-1"
+                   {:init {:text "Представляешь, купила вечернее платье на аукцион, а он будет в стиле GTA. Теперь надо ствол искать :(" :actions [{:text "Могу одолжить миниган, подойдет?" :next :gta}]}
+                    :gta  {:text "Ты просто душка!" :actions [{:text "..."}]}
+                    }
+
+ "office-casual-printer-2"
+                   {:init {:text "Этот принтер вечно зажёвывает бумагу..." :actions [{:text "Бывает"}]}}
+
+ }

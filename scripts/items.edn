@@ -1,0 +1,100 @@
+{
+ ;; --------- пожираемое ---------
+
+ "apple"
+ {:gjs.player.item/frame-id      "apple.png"
+  :gjs.player.item/name          "Яблоко"
+  :gjs.player.item.amulet/target :gjs.player/max-hp
+  :gjs.player.item.amulet/buff   1}
+
+
+ "pepsico"
+ {:gjs.player.item/frame-id      "pepsico.png"
+  :gjs.player.item/name          "Чудо-зелье неистовой мощи"
+  :gjs.player.item.potion/target :gjs.player/strength
+  :gjs.player.item.potion/ttl    60
+  :gjs.player.item.potion/buff   20
+  }
+
+
+
+ ;; --------- пассивное ---------
+
+ "raif"
+ {:gjs.player.item/frame-id      "raif.png"
+  :gjs.player.item/name          "Оберег от зла и увольнения"
+  :gjs.player.item.amulet/target :gjs.player/max-mp
+  :gjs.player.item.amulet/buff   25
+  }
+
+
+ "danone"
+ {:gjs.player.item/frame-id      "danone.png"
+  :gjs.player.item/name          "Agile-плащ Danone"
+
+  :gjs.player.item.amulet/target :gjs.player/speed
+  :gjs.player.item.amulet/buff   20
+  }
+
+
+ "dins"
+ {:gjs.player.item/frame-id      "dins.png"
+  :gjs.player.item/name          "Хранилище тайного знания"
+  :gjs.player.item.amulet/target :gjs.player/max-mp
+  :gjs.player.item.amulet/buff   50
+  }
+
+
+ "unicredit"
+ {:gjs.player.item/frame-id      "unicredit.png"
+  :gjs.player.item/name          "Заветная сфера здоровья"
+  :gjs.player.item.amulet/target :gjs.player/max-hp
+  :gjs.player.item.amulet/buff   100
+  }
+
+
+ "space307"
+ {:gjs.player.item/frame-id      "space307.png"
+  :gjs.player.item/name          "Шлем новых горизонтов"
+  :gjs.player.item.amulet/target :gjs.player/max-hp
+  :gjs.player.item.amulet/buff   50
+  }
+
+
+ "sport1"
+ {:gjs.player.item/frame-id      "sport1.png"
+  :gjs.player.item/name          "Доспех ловкого война"
+  :gjs.player.item.amulet/target :gjs.player/max-hp
+  :gjs.player.item.amulet/buff   20
+  }
+
+
+ "sport2"
+ {:gjs.player.item/frame-id      "sport2.png"
+  :gjs.player.item/name          "Обувь стремительной пробежки"
+  :gjs.player.item.amulet/target :gjs.player/speed
+  :gjs.player.item.amulet/buff   50
+  }
+
+
+ "sport3"
+ {:gjs.player.item/frame-id      "sport3.png"
+  :gjs.player.item/name          "Закалённая сфера жизни"
+  :gjs.player.item.amulet/target :gjs.player/max-hp
+  :gjs.player.item.amulet/buff   80
+  }
+
+  "amlaz"
+ {:gjs.player.item/frame-id      "amlaz.png"
+  :gjs.player.item/name          "Камень высокой точности"
+  :gjs.player.item.amulet/target :gjs.player/strength
+  :gjs.player.item.amulet/buff   30
+  }
+
+   "skill"
+ {:gjs.player.item/frame-id      "skill.png"
+  :gjs.player.item/name          "Карьерный ускоритель"
+  :gjs.player.item.amulet/target :gjs.player/speed
+  :gjs.player.item.amulet/buff   50
+  }
+ }

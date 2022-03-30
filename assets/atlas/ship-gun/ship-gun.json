@@ -1,0 +1,270 @@
+{
+	"textures": [
+		{
+			"image": "ship-gun.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 424,
+				"h": 97
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ship-gunboom-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 104,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 104,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.78181818,
+						"y": 0.76785714
+					}
+				},
+				{
+					"filename": "ship-gunboom-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 98,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 59,
+						"w": 98,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 19,
+						"w": 67,
+						"h": 37
+					},
+					"frame": {
+						"x": 101,
+						"y": 59,
+						"w": 67,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 105,
+						"h": 55
+					},
+					"frame": {
+						"x": 107,
+						"y": 1,
+						"w": 105,
+						"h": 55
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 21,
+						"w": 64,
+						"h": 35
+					},
+					"frame": {
+						"x": 170,
+						"y": 58,
+						"w": 64,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 102,
+						"h": 49
+					},
+					"frame": {
+						"x": 214,
+						"y": 1,
+						"w": 102,
+						"h": 49
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 17,
+						"w": 67,
+						"h": 39
+					},
+					"frame": {
+						"x": 236,
+						"y": 52,
+						"w": 67,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 23,
+						"w": 62,
+						"h": 33
+					},
+					"frame": {
+						"x": 305,
+						"y": 52,
+						"w": 62,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 92,
+						"h": 45
+					},
+					"frame": {
+						"x": 318,
+						"y": 1,
+						"w": 92,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.8181818181818182,
+						"y": 0.7678571428571429
+					}
+				},
+				{
+					"filename": "ship-gunboom-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 21,
+						"w": 54,
+						"h": 35
+					},
+					"frame": {
+						"x": 369,
+						"y": 48,
+						"w": 54,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.7818181818181819,
+						"y": 0.7678571428571429
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f3a86dcee984b7c83066b6342e6cc392:7677cb5fed9025c6a75eec83ae14491d:4606cf1f34a5f0e063376e3fa7e70ecf$"
+	}
+}

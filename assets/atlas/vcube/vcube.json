@@ -1,0 +1,595 @@
+{
+	"textures": [
+		{
+			"image": "vcube.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 930,
+				"h": 992
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cube-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 246
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 216,
+						"h": 246
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.243902
+					}
+				},
+				{
+					"filename": "cube-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 244
+					},
+					"frame": {
+						"x": 1,
+						"y": 249,
+						"w": 208,
+						"h": 244
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.254098
+					}
+				},
+				{
+					"filename": "cube-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 495,
+						"w": 202,
+						"h": 250
+					},
+					"anchor": {
+						"x": 0.485149,
+						"y": 0.224
+					}
+				},
+				{
+					"filename": "cube-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 240
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 200,
+						"h": 240
+					},
+					"anchor": {
+						"x": 0.49,
+						"y": 0.266667
+					}
+				},
+				{
+					"filename": "cube-13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 242
+					},
+					"frame": {
+						"x": 203,
+						"y": 747,
+						"w": 184,
+						"h": 242
+					},
+					"anchor": {
+						"x": 0.48913,
+						"y": 0.231405
+					}
+				},
+				{
+					"filename": "cube-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 228
+					},
+					"frame": {
+						"x": 205,
+						"y": 495,
+						"w": 178,
+						"h": 228
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.254386
+					}
+				},
+				{
+					"filename": "cube-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 211,
+						"y": 249,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.467391
+					}
+				},
+				{
+					"filename": "cube-22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 211,
+						"y": 249,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.456522
+					}
+				},
+				{
+					"filename": "cube-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 385,
+						"y": 435,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.456522
+					}
+				},
+				{
+					"filename": "cube-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 219,
+						"y": 1,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.315217
+					}
+				},
+				{
+					"filename": "cube-16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 391,
+						"y": 187,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.347826
+					}
+				},
+				{
+					"filename": "cube-17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 399,
+						"y": 1,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.369565
+					}
+				},
+				{
+					"filename": "cube-18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 389,
+						"y": 621,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.391304
+					}
+				},
+				{
+					"filename": "cube-19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 565,
+						"y": 373,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.413043
+					}
+				},
+				{
+					"filename": "cube-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 571,
+						"y": 187,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.445652
+					}
+				},
+				{
+					"filename": "cube-20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 579,
+						"y": 1,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.434783
+					}
+				},
+				{
+					"filename": "cube-21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 389,
+						"y": 807,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.445652
+					}
+				},
+				{
+					"filename": "cube-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 745,
+						"y": 373,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.434783
+					}
+				},
+				{
+					"filename": "cube-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 751,
+						"y": 187,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.423913
+					}
+				},
+				{
+					"filename": "cube-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 569,
+						"y": 559,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.413043
+					}
+				},
+				{
+					"filename": "cube-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 749,
+						"y": 559,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.402174
+					}
+				},
+				{
+					"filename": "cube-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 569,
+						"y": 745,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.380435
+					}
+				},
+				{
+					"filename": "cube-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 184
+					},
+					"frame": {
+						"x": 749,
+						"y": 745,
+						"w": 178,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.494382,
+						"y": 0.358696
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c04ed30def3de8642b0bfbda8cf40cc4:a04994f92418c3aa34b6a253c7a1145a:8a7989913c35e1b56d48a7bc10245d06$"
+	}
+}

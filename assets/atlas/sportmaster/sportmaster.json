@@ -1,0 +1,470 @@
+{
+	"textures": [
+		{
+			"image": "sportmaster.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 496,
+				"h": 1712
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "palazzo-sportmaster-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 3,
+						"w": 246,
+						"h": 190
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 246,
+						"h": 190
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 1,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 191,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 193,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 381,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 383,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 571,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 573,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 761,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 763,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 951,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 953,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 1141,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1143,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 1331,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1333,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 249,
+						"y": 1521,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "palazzo-sportmaster-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 5,
+						"w": 246,
+						"h": 188
+					},
+					"frame": {
+						"x": 1,
+						"y": 1523,
+						"w": 246,
+						"h": 188
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c03f51e74904c6e1d3e8e34833e03a66:7e424a584c9f012a059dfee88f16768a:69acc8f0ac1f93e13d134ac5749d0ade$"
+	}
+}

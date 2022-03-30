@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "budu-flag.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 124,
+				"h": 62
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "budu-flag-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 63,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 63,
+						"h": 29
+					}
+				},
+				{
+					"filename": "budu-flag-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 31
+					},
+					"frame": {
+						"x": 66,
+						"y": 1,
+						"w": 57,
+						"h": 31
+					}
+				},
+				{
+					"filename": "budu-flag-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 63,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 32,
+						"w": 63,
+						"h": 27
+					}
+				},
+				{
+					"filename": "budu-flag-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 55,
+						"h": 27
+					},
+					"frame": {
+						"x": 66,
+						"y": 34,
+						"w": 55,
+						"h": 27
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3a42432680464f56097bd9869f2ceec3:37a5f741076f03044ef4c9b5c9dab822:253747ab307cfd323f29464f219f04e2$"
+	}
+}

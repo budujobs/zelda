@@ -1,0 +1,66 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import "codemirror/lib/codemirror.css";
+@import "codemirror/theme/material.css";
+
+@import url('https://rsms.me/inter/inter.css');
+
+@font-face {
+    font-family: 'Pixel';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/assets/fonts/18682.ttf') format('truetype');
+}
+
+#cover {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url('https://ucarecdn.com/970f9c67-2edb-4447-b9b7-6cb971a55e9c/-/preview/700x1334/2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#game-container {
+    position: absolute;
+    font-family: Pixel, monospace;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    image-rendering: pixelated;
+}
+
+#fulcro-container {
+    @apply absolute z-50;
+}
+
+#fulcro-app {
+    @apply select-none z-10 w-full !important;
+
+    button {
+        &, &:hover, &:focus, &:active {
+            @apply appearance-none outline-none;
+        }
+    }
+}
+
+.i-dialog-box-outer {
+    background-color: #2b2b45;
+    border: 2px solid #fff;
+}
+
+.i-dialog-box-inner {
+    background-color: #3a3f5e;
+    border: 2px solid #4c6885;
+}
+
+.CodeMirror {
+    height: 600px !important;
+}

@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "gull.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 28,
+				"h": 105
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ship-gull-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ship-gull-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ship-gull-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 23,
+						"w": 26,
+						"h": 20
+					}
+				},
+				{
+					"filename": "ship-gull-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 45,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "ship-gull-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 66,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "ship-gull-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 26,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 87,
+						"w": 26,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ship-gull-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 26,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 26,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 87,
+						"w": 26,
+						"h": 17
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:903ed1a8794f1f71b991094ec95d2687:41e9dfc99ad3fe82136c4caa9550f11d:ebb3e49e057f3b79c271eac53af97afb$"
+	}
+}

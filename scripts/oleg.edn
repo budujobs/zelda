@@ -1,0 +1,36 @@
+{"init"                    {:param/avatar-src        "none.svg"
+                            :param/avatar-name       "Буду"
+                            :init                    {:attr :auth/init}
+                            :anon/warning            {:text    "Ты точно хочешь продолжить |style;text-yellow;без регистрации|?"
+                                                      :actions [{:text "Не хочу" :next :init}
+                                                                {:text "Да, погнали!"}]}
+                            :sign-in                 {:attr :auth/sign-in}
+                            :sign-in/error           {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :sign-in}]}
+                            :sign-in/invalid-creds   {:text "Неверные почта или пароль." :actions [{:text "Давай еще раз" :next :sign-in}]}
+                            :sign-in/invalid-role    {:text "Чтобы играть, нужно создать профиль." :actions [{:text "Справедливо" :next :sign-up}]}
+                            :sign-in/ok              {:text "Ты в игре!" :actions [{:text "Супер"}]}
+                            :sign-up                 {:attr :auth/sign-up}
+                            :sign-up/duplicate-email {:text "Этот адрес уже кто-то занял." :actions [{:text "Это же мой!" :next :sign-in} {:text "Жаль" :next :sign-up}]}
+                            :sign-up/error           {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :sign-up}]}
+                            :sign-up/ok              {:text "Ты в игре! Скоро тебе на почту что-то придет." :actions [{:text "Супер" :next :teleport}]}
+                            :reset-password          {:attr :auth/reset-password}
+                            :reset-password/ok       {:text "Выслали тебе инструкции по восстановлению пароля на почту." :actions [{:text "Супер" :next :sign-in}]}
+                            :reset-password/error    {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :reset-password}]}}
+ "react-auth"              {:init                    {:attr :candidate/react-auth-init}
+                            :sign-in                 {:attr :auth/sign-in}
+                            :sign-in/error           {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :sign-in}]}
+                            :sign-in/invalid-creds   {:text "Неверные почта или пароль." :actions [{:text "Давай еще раз" :next :sign-in}]}
+                            :sign-in/invalid-role    {:text "Чтобы играть, нужно создать профиль." :actions [{:text "Справедливо" :next :sign-up}]}
+                            :sign-in/ok              {:text "Ты в игре!" :actions [{:text "Супер"}]}
+                            :sign-up                 {:attr :auth/sign-up}
+                            :sign-up/duplicate-email {:text "Этот адрес уже кто-то занял." :actions [{:text "Это же мой!" :next :sign-in} {:text "Жаль" :next :sign-up}]}
+                            :sign-up/error           {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :sign-up}]}
+                            :sign-up/ok              {:text "Ты в игре! Скоро тебе на почту что-то придет." :actions [{:text "Супер" :next :teleport}]}
+                            :reset-password          {:attr :auth/reset-password}
+                            :reset-password/ok       {:text "Выслали тебе инструкции по восстановлению пароля на почту." :actions [{:text "Супер" :next :sign-in}]}
+                            :reset-password/error    {:text "Что-то пошло не так..." :actions [{:text "Блин" :next :reset-password}]}}
+ "item-fetch"              {:init {:text    "Мда"
+                                   :actions [{:text "Предмет" :item-hid "apple"}
+                                             {:text "Нахуй"}]}}
+ "village-teleport-to-hub" {:init {:attr :game/teleport :target-quest-id "hub-teleport"
+                                   :text "Куда хочешь попасть?" :ok-text "Обратно в хаб" :close-text "Никуда"}}}

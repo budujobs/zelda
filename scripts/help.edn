@@ -1,0 +1,212 @@
+{:instructions
+ [
+  {:title "Управление"
+   :text  "— Передвижение
+   \n|style;text-green;WASD| или |style;text-green;стрелочки|
+
+   — Взаимодействовать
+   |style;text-green;Пробел|
+
+   — Открыть чат
+   |style;text-green;T|
+
+   — Открыть инвентарь
+   |style;text-green;I|
+   "}
+
+
+  {:title "Навигация"
+   :text  "Ты можешь быстро попасть в дом любой компании используя |style;text-green;карту| или вкладку |style;text-green;[вакансии]|.
+
+   "}
+
+  {:title "Общение"
+   :text  "Будь вежлив. Невежливых мы предупреждаем. Грубых — изолируем на специальном острове.
+
+   "}
+
+  {:title "Предметы"
+   :text  "Их интересно искать по карте и смеятся над смешными названиями.
+
+   "}
+
+  {:title "Обратная связь"
+   :text  "Баги, вопросы и пожелания можно присылать по этому адресу: |link;mailto:vlad@budu.jobs;feedback@budu.jobs|."}] ;что ты людей то наебываешь с такими имейлами
+
+ ;almaz
+ ;gazprom
+ ;pepsi
+ ;sber
+ ;taxi
+ ;selectel
+ ;danone
+ ;dins
+ ;geek
+ ;mts
+ ;netol
+ ;raif
+ ;skill
+ ;space
+ ;sport
+ ;unic
+
+ :companies
+ [{:company   "Сбербанк"
+   :vacancies [{:title "Data Scientist (CLTV)" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee75626-9f55-43f8-93eb-cdfa9e821c32/"}
+               {:title "Data Аналитик" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee755c7-9871-4bd2-bea6-466b4a47aaba/"}
+               {:title "Senior ML Engineer" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee75560-cd53-4833-8340-3150920cb02e/"}
+               {:title "Lead DS (NLP)" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee754f1-39e3-4584-acf5-e06086646ef0/"}
+               {:title "Data Analyst в команду графов кластера «Data Science и клиентская аналитика»" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee75457-0a52-4ee9-a29f-a3bea1e7b054/"}
+               {:title "Data Engineer в команду графов кластера «Data Science и клиентская аналитика»" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee74bc2-1aae-4e47-bc1a-1fc9a0a3c63d/"}
+               {:title "Data Scientist (Команда Знания о клиенте)" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee74a8b-1532-4342-b2ae-4d1398b07663/"}
+               {:title "Разработчик платформы рекомендательных систем. Data Engineer" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee74a01-a937-4851-98a2-e0de1d296fcf/"}
+               {:title "Data Engineer в команду корпоративно-инвестиционного бизнеса" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee7498e-a337-4871-8221-65be7bec70be/"}
+               {:title "Data Scientist в корпоративно-инвестиционный блок" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ee748d1-b66a-4586-9467-a8c2447658f4/"}
+               {:title "Senior Java Developer" :city "Москва" :href "https://budu.jobs/vacancy/5ee71e21-15fc-41e4-8727-307a4f97ff6c/"}
+               {:title "Frontend разработчик" :city "Москва" :href "https://budu.jobs/vacancy/5ee71dbb-1f86-4bb9-a938-c0ef000ddb84/"}
+               {:title "Data Scientist (Центр валидации моделей сервисных блоков и экосистемы)" :city "Москва" :href "https://budu.jobs/vacancy/5ee71ccd-b488-4d11-a268-fede045d3f65/"}
+               {:title "Data Scientist" :city "Москва" :href "https://budu.jobs/vacancy/5ee71c4f-d3af-4ee9-8749-161c1c784ba0/"}
+               {:title "CV/DL Developer" :city "Москва" :href "https://budu.jobs/vacancy/5ee71be3-a94a-433f-8671-ac2b589847a4/"}
+               {:title "Инженер-исследователь Linux" :city "Москва" :href "https://budu.jobs/vacancy/5ee71b53-3930-4782-b32e-162e9b7bacc2/"}
+               {:title "Разработчик интеграционной шины" :city "Москва" :href "https://budu.jobs/vacancy/5ee718d7-8cba-4ff7-b602-f85ea2831b63/"}
+               {:title "Аналитик данных розничного бизнеса" :city "Москва" :href "https://budu.jobs/vacancy/5ee71798-b765-415f-9558-63d1b818a68e/"}]
+   :spawn-id  "sber-from-main"}
+  {:company   "Райффайзенбанк"
+   :vacancies [{:title "Java-разработчик команды казначейства" :city "Москва" :href "https://budu.jobs/vacancy/5edfaa3a-a7ee-4c5e-b324-1adc427d113a/"}
+               {:title "Системный аналитик в команду отчетности РСБУ" :city "Москва" :href "https://budu.jobs/vacancy/5edfa975-9ca4-41c9-944b-01534cef9248/"}
+               {:title "Java-разработчик команды автоматизации бухгалтерского учёта и отчётности" :city "Москва" :href "https://budu.jobs/vacancy/5edfaa9f-8742-49dc-89d6-23ec4b929c73"}
+               {:title "Data Engineer в команду валидации моделей" :city "Москва" :href "https://budu.jobs/vacancy/5edfaaf5-da56-48ba-a2d8-c08e4f9d5180/"}
+               {:title "Ведущий инженер по тестированию в команду Corp CRM" :city "Москва" :href "https://budu.jobs/vacancy/5edfab9b-a8b5-4997-b88b-0f88b010e422/"}
+               {:title "Тестировщик в команду интеграций" :city "Москва" :href "https://budu.jobs/vacancy/5edfab45-330a-4d46-900a-90acd95456da/"}
+               {:title "Тестировщик в зарплатный проект" :city "Омск" :href "https://budu.jobs/vacancy/5edfabf8-342f-4e54-84f1-7220775ae643/"}
+               {:title "Системный аналитик в команду валютного контроля" :city "Омск" :href "https://budu.jobs/vacancy/5edfacaf-a3b5-4348-8d89-c276e9f6f072/"}
+               {:title "Специалист автоматизации и поддержки IT процессов" :city "Омск" :href "https://budu.jobs/vacancy/5edfad17-2f26-41d7-b6d5-03abb4b819c0/"}
+               {:title "Системный аналитик в команду развития системы кредитования ЮЛ" :city "Омск" :href "https://budu.jobs/vacancy/5ee0938e-71e2-4178-9f6b-3c9a3d95708a/"}
+               {:title "Старший java-разработчик в команду развития сервиса рублевых платежей" :city "Омск" :href "https://budu.jobs/vacancy/5ee09419-9d49-43d7-9dbc-12d72b74597c/"}]
+   :spawn-id  "raif-from-main"}
+  {:company   "Selectel"
+   :vacancies [{:title "Business Analyst" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5edfa787-4b6c-4a7a-a094-ae696781b586/"}
+               {:title "Product Manager" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5edfa73a-a0f3-404e-8eb1-71a19bfc7036/"}
+               {:title "Product Marketing Manager" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5edfa499-dcc5-4470-b493-c7ecba4779e4/"}
+               {:title "Разработчик Go" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5edfa43a-4592-41fc-aab8-82d15f1c04d2/"}
+               {:title "Системный администратор отдела поддержки облачной инфраструктуры" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5edfa31c-fb96-4d7e-952a-88c01be78a25/"}
+               {:title "Ведущий редактор" :city "Москва" :href "https://budu.jobs/vacancy/5edfa216-c634-4ee3-a77c-14df2240c7e2/"}
+               {:title "Менеджер специальных проектов" :city "Москва" :href "https://budu.jobs/vacancy/5edfa0e4-79dc-47f7-82e4-4b6d292e753b/"}
+               {:title "UX специалист (сайт Selectel)" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ed435b6-f70c-4736-8552-800ad851e79a/"}
+               {:title "Email-маркетолог (CRM-маркетолог)" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5ecfe60e-b7b4-4359-bb35-cec55abd15f3/"}
+               {:title "Database Developer" :city "Санкт-Петербург" :href "https://budu.jobs/vacancy/5e9457f6-5c17-4503-bf0a-f1c42120b17c/"}]
+   :spawn-id  "selectel-from-main"}
+  {:company   "МТС" :city "Москва"
+   :vacancies [{:title "Старший менеджер продуктов (продуктовый маркетинг)" :href "https://budu.jobs/vacancy/5ee325cf-78a0-45a0-8bdf-c097d9baefd6/"}
+               {:title "Менеджер проекта (агентcкий канал, B2C)" :href  "https://budu.jobs/vacancy/5ee32680-4a76-4a96-88a7-f509df12f970/"}
+               {:title "Эксперт (контакт-центр)" :href  "https://budu.jobs/vacancy/5ee32763-14ac-4609-b952-cda01fc95ad6/"}
+               {:title "Аналитик-координатор" :href  "https://budu.jobs/vacancy/5ee32885-c482-4acf-a3fe-ff1e90743e1c/"}
+               {:title "Комплаенс менеджер" :href  "https://budu.jobs/vacancy/5ee53575-0dc8-4b48-afb7-1531bd812865/"}]
+   :spawn-id  "mts-from-main"}
+  {:company   "Skillbox" :city "Москва"
+   :vacancies [{:title "Data Engineer" :href "https://budu.jobs/vacancy/5ee495c0-14f7-462f-8b69-981d9f7ef5c0"}
+               {:title "IT - рекрутер" :href  "https://budu.jobs/vacancy/5ee49531-b137-4a09-8665-d11dfbcdd286/"}
+               {:title "Senior Business Analyst" :href  "https://budu.jobs/vacancy/5ee49484-4eeb-4822-aede-38c2ced63568"}
+               {:title "Senior Designer LMS" :href  "https://budu.jobs/vacancy/5ee493e8-5a90-4a24-b9e2-97baa01f89f8"}
+               {:title "Digital producer / Project manager" :href  "https://budu.jobs/vacancy/5ee4919b-ef2b-42cc-9ab8-dd1a803d6eee"}]
+   :spawn-id  "skill-from-main"}
+  {:company   "Danone" :city "Москва"
+   :vacancies [{:title "Brand Manager" :href "https://budu.jobs/vacancy/5ee13e4c-ecab-485c-9928-f8a7dfbfb777/"}
+               {:title "Business Systems Analyst (SAP)" :href  "https://budu.jobs/vacancy/5ee13dc1-7d32-4caf-b593-5c40ea240f84/"}
+               {:title "IT Project Manager" :href  "https://budu.jobs/vacancy/5ee13d31-c89a-4180-8ac5-02f5384913ba/"}
+               {:title "IS/IT Developer" :href  "https://budu.jobs/vacancy/5ee13cb7-f470-4af2-8b09-397e84a43b6b/"}
+               {:title "E-commerce Manager" :href  "https://budu.jobs/vacancy/5ee13aad-3a5a-4956-bf4d-004f6cf39dbc/"}]
+   :spawn-id  "danone-from-main"}
+  {:company   "Алмаз-Антей" :city "Москва"
+   :vacancies [{:title "Ведущий инженер (Программист C++)" :href "https://budu.jobs/vacancy/5edf88a8-e1a8-478d-a60a-be67fde662a0/"}
+               {:title "Ведущий программист отдела информационно-аналитического" :href  "https://budu.jobs/vacancy/5edf883d-c1a4-42ae-82b5-54ebb1760ea7/"}
+               {:title "Ведущий программист отдела САПР" :href  "https://budu.jobs/vacancy/5edf87d1-3365-455c-86bd-3c03f4cdfdb8/"}
+               {:title "Ведущий инженер (программист C++/разработчик ГИС)" :href  "https://budu.jobs/vacancy/5edf8758-1100-4b2d-af91-dee43de0aaa5/"}
+               {:title "Главный специалист по информационным системам на платформе 1С" :href  "https://budu.jobs/vacancy/5edf83e3-dd5a-423c-8a6b-952a8e6e11d7/"}
+               {:title "Специалист по автоматизированным системам документооборота (программист C#, SQL)" :href "https://budu.jobs/vacancy/5edf8369-6f12-4976-8386-ad3de1dd7cf4/"}
+               {:title "Технический специалист по системам электронного документооборота" :href  "https://budu.jobs/vacancy/5edf8284-8f9c-4126-9f46-d02c35c0497c/"}
+               {:title "Ведущий программист" :href  "https://budu.jobs/vacancy/5edf81be-0503-4245-899a-49770308ce29/"}]
+   :spawn-id  "almaz-from-main"}
+  {:company   "ЮниКредит Банк" :city "Москва"
+   :vacancies [{:title "Стажер Кредитного департамента" :href "https://budu.jobs/vacancy/5ede687e-e744-42b3-b9dc-c413109f4918/"}
+               {:title "Стажер Управления операций на финансовом рынке" :href  "https://budu.jobs/vacancy/5ede67cf-b6e9-483c-ac74-00fb44561701"}
+               {:title "Стажер в отдел аналитического учета" :href  "https://budu.jobs/vacancy/5ede674c-80cf-4f37-b9f9-110a23870f81"}
+               {:title "Стажер Департамента финансирования банковских операций" :href  "https://budu.jobs/vacancy/5ede66d4-bfcc-4fe3-a901-2dca1a7de5b5"}
+               {:title "Стажер Отдела управления портфелем просроченной задолженности" :href  "https://budu.jobs/vacancy/5ede665b-7abd-4c5b-be71-0d7196087d84/"}
+               {:title "Стажер Департамента розничных кредитных рисков (моделирования и отчетности)" :href "https://budu.jobs/vacancy/5ede64d9-c6cf-43b9-b406-75ac8424daa1/"}
+               {:title "Стажер разработки и администрирования продуктов корпоративной ликвидности" :href  "https://budu.jobs/vacancy/5ede63e5-05c0-4439-9217-c4b27c9db49b/"}
+               {:title "Стажер группы развития дистанционных каналов обслуживания" :href  "https://budu.jobs/vacancy/5ede62d3-596c-4dfa-b7ba-a4eba8211e51/"}
+               {:title "Стажер в Отдел Центр Компетенции по централизованным банковским системам и интеграции приложений" :href  "https://budu.jobs/vacancy/5ede619b-f53a-4d82-978e-796104dc4e30/"}
+               {:title "Стажер Департамента управления данными (разработка отчетности)" :href  "https://budu.jobs/vacancy/5ede6019-64a7-4076-911e-4164b9456d75/"}]
+   :spawn-id  "unic-from-main"}
+  {:company   "DINS" :city "Санкт-Петербург"
+   :vacancies [{:title "Junior Helpdesk Engineer" :href "https://budu.jobs/vacancy/5eddf36d-b772-4ec3-8c88-522666a11b36/"}
+               {:title "QA Intern (Performance team)" :href  "https://budu.jobs/vacancy/5eddf26c-75bf-492b-a242-543b699cd48b/"}
+               {:title "Intern QA Engineer (Global Continious Integration)" :href  "https://budu.jobs/vacancy/5eddf06a-2317-4663-977b-589bb20eb2f2/"}
+               {:title "Intern QA automation (Platform)" :href  "https://budu.jobs/vacancy/5edde62c-585a-4278-ab5e-79bfef21fb04/"}
+               ;;{:title "Intern QA automation" :href  "https://budu.jobs/vacancy/5edde583-9e71-42a3-af0f-9f49361a2001/"}
+               {:title "Intern DevOps Engineer" :href "https://budu.jobs/vacancy/5edde469-f7fb-486b-8e12-dcb8f4ecdf19/"}
+               {:title "Intern QA Engineer (RCV)" :href  "https://budu.jobs/vacancy/5edde3d4-822d-43af-8c45-47b0f6ed3f27"}
+               {:title "Intern QA engineer (Feature)" :href  "https://budu.jobs/vacancy/5edde2d1-e70f-4397-bd2c-25b6377cdded/"}]
+   :spawn-id  "dins-from-main"}
+  {:company   "Geekbrains" :city "Москва"
+   :vacancies [{:title "E-learning продюсер (видеоконтент)" :href "https://budu.jobs/vacancy/5edc95fa-4d42-4f4e-bba6-5bdfebbe2845/"}
+               {:title "Методист образовательных программ" :href  "https://budu.jobs/vacancy/5edc926b-fbe5-415e-a618-c8cb5f46373f/"}]
+   :spawn-id  "geek-from-main"}
+  {:company   "Ситимобил" :city "Москва"
+   :vacancies [{:title "Бизнес-аналитик (спецпроекты)" :href "https://budu.jobs/vacancy/5ee8239e-5b5e-4b69-8a38-b72e16ea759c/"}
+               {:title "Продуктовый аналитик (Dispatch)" :href "https://budu.jobs/vacancy/5ee824a9-9365-488d-8468-3ba802d4f92d"}
+               {:title "Head of Product (rider app)" :href "https://budu.jobs/vacancy/5ee82535-0bc1-45e6-8bc6-e6a3b31eeb75/"}
+               {:title "Product manager (rider app)" :href "https://budu.jobs/vacancy/5ee82598-45de-4284-b3bf-973dbce934cc/"}
+               {:title "Backend разработчик (Middle_Senior)" :href "https://budu.jobs/vacancy/5ee828c4-bd78-40f7-9340-16f7de2dc4b6/"}
+               {:title "QA Automation Engineer (Android)" :href "https://budu.jobs/vacancy/5ee82999-8350-49c7-b7b5-7fbf8201ccfa/"}
+               {:title "Backend developer (РНР)" :href "https://budu.jobs/vacancy/5ee82a0e-27f6-47d4-ae3c-03b36763317e/"}
+               {:title "Senior Data Scientist (Surge Pricing)" :href "https://budu.jobs/vacancy/5ee82a67-eeb5-4ca4-94d9-97f863247b52/"}
+               {:title "Senior Android Developer" :href "https://budu.jobs/vacancy/5ee82afc-e182-4ec6-91f6-fa7409736e2f/"}
+               {:title "Junior android developer" :href  "https://budu.jobs/vacancy/5ee82c33-9972-4118-9d99-02acebfceec7/"}]
+   :spawn-id  "taxi-from-main"}
+  {:company   "Газпромбанк" :city "Москва"
+   :vacancies [{:title "Java разработчик (Spring Boot)" :href "https://budu.jobs/vacancy/5edc8cce-8f87-48bc-89ff-246552a6504a/"}
+               {:title "Руководитель экспертизы по сопровождению (IBM API Connect)" :href "https://budu.jobs/vacancy/5edc8a7b-24d0-424a-825f-bb9b57753a1f/"}
+               {:title "Администратор серверов приложений IBM Websphere" :href "https://budu.jobs/vacancy/5edc89fe-2a7f-4662-8db2-d1e56fb617c7/"}
+               {:title "Инженер/ аналитик ETL" :href "https://budu.jobs/vacancy/5edc8994-307b-48c4-a92e-540c9b5d14ba/"}
+               {:title "Системный администратор DevOps" :href "https://budu.jobs/vacancy/5edc8925-2a3c-429e-ba8e-c019a98e4363/"}
+               {:title "Junior QA / Младший тестировщик" :href "https://budu.jobs/vacancy/5edc8865-3c5e-4e8a-8a69-fb1264194b12/"}
+               {:title "Системный аналитик (розничный блок)" :href "https://budu.jobs/vacancy/5edc8805-69a5-482f-80ba-783918369e61/"}
+               {:title "Java разработчик" :href "https://budu.jobs/vacancy/5edc8747-c727-4f5d-9888-84aede2c11a5"}
+               {:title "Разработчик Perl" :href "https://budu.jobs/vacancy/5edc8d3e-0ca6-4834-8aef-057d8ad5b3d4/"}
+               {:title "Специалист call-центра" :href  "https://budu.jobs/vacancy/5edc8ddc-5766-4fe3-bd40-c5f5db191b9b/"}]
+   :spawn-id  "gazprom-from-main"}
+  {:company   "Space307" :city "Санкт-Петербург"
+   :vacancies [{:title "Senior Frontend Developer (React)" :href "https://budu.jobs/vacancy/5edc8309-ea9b-4297-8335-9456bce7525c/"}
+               {:title "QA Engineer (Manual)" :href "https://budu.jobs/vacancy/5edc84bd-a42d-456b-882c-a79f9b150354/"}
+               {:title "UX/UI-дизайнер" :href "https://budu.jobs/vacancy/5edc851f-8c0b-4ce6-bb4c-7f331aaedf17/"}
+               {:title "Backend Developer (Go)" :href "https://budu.jobs/vacancy/5edc85b0-5a41-4d0a-97c6-f9066f5dd8ad/"}
+               {:title "Backend Developer (PHP)" :href "https://budu.jobs/vacancy/5edc8680-b96d-4bba-8f83-96d97058042d"}]
+   :spawn-id  "space-from-main"}
+  {:company   "Спортмастер" :city "Москва"
+   :vacancies []
+   :spawn-id  "sport-from-main"}
+  {:company   "Нетология" :city "Москва"
+   :vacancies []
+   :spawn-id  "netol-from-main"}
+  {:company   "Спортмастер" :city "Москва"
+   :vacancies []
+   :spawn-id  "sport-from-main"}
+  {:company   "PepsiCo" :city "Москва"
+   :vacancies []
+   :spawn-id  "pepsi-from-main"}
+  ]
+
+ :updates
+ [
+ {:title "18.06   Обновление"
+   :text  "— Археологи обнаружили в пустыне |style;text-green;древний незвестный объект|.
+   \n— В мир пришла |style;text-green;магия|, остерегайтесь незнакомцев с |style;text-green;посохами|!
+   \n— Ходят слухи, что |style;text-green;ценный лут| можно обнаружить даже в самых неожиданных местах...
+   \n— |style;text-green;Местные жители| готовы поделиться своим мнением по поводу выставки.
+   \n— Слава священному крабу!"}
+
+
+   {:title "16.06   Начало выставки"
+   :text  "Мы запустились!"}]}

@@ -1,0 +1,125 @@
+{
+  "textures": [
+    {
+      "image": "teleport.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 330,
+        "h": 66
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "idle-0.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "idle-1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 67,
+            "y": 1,
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "idle-2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 133,
+            "y": 1,
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "idle-3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 199,
+            "y": 1,
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "idle-4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "frame": {
+            "x": 265,
+            "y": 1,
+            "w": 64,
+            "h": 64
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:47c4412a382aec60d8bddda10eaeb660:0d4aabe2cdd6c05fd5ef74be1112b159:fb84bb1cef7e0140cb6fd446cb07fa1b$"
+  }
+}

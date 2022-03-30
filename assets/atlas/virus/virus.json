@@ -1,0 +1,5669 @@
+{
+	"textures": [
+		{
+			"image": "virus.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 255,
+				"h": 1210
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "icedeath-bigall-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "icedeath-middleall-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 64,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 67,
+						"w": 64,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-bigred-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 60,
+						"h": 63
+					},
+					"frame": {
+						"x": 67,
+						"y": 1,
+						"w": 60,
+						"h": 63
+					}
+				},
+				{
+					"filename": "attack-bigred-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 63,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 129,
+						"w": 63,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-middlered-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 63,
+						"h": 60
+					},
+					"frame": {
+						"x": 129,
+						"y": 1,
+						"w": 63,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-bigred-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 191,
+						"w": 62,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-middlered-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 253,
+						"w": 62,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-bigred-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 61,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 315,
+						"w": 61,
+						"h": 60
+					}
+				},
+				{
+					"filename": "attack-bigred-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 58,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 377,
+						"w": 58,
+						"h": 62
+					}
+				},
+				{
+					"filename": "attack-middlered-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 61,
+						"h": 58
+					},
+					"frame": {
+						"x": 67,
+						"y": 66,
+						"w": 61,
+						"h": 58
+					}
+				},
+				{
+					"filename": "icedeath-littleall-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 58,
+						"h": 60
+					},
+					"frame": {
+						"x": 194,
+						"y": 1,
+						"w": 58,
+						"h": 60
+					}
+				},
+				{
+					"filename": "icedeath-bigall-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 64,
+						"h": 58
+					},
+					"frame": {
+						"x": 130,
+						"y": 63,
+						"w": 64,
+						"h": 58
+					}
+				},
+				{
+					"filename": "icedeath-middleall-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 58,
+						"h": 60
+					},
+					"frame": {
+						"x": 196,
+						"y": 63,
+						"w": 58,
+						"h": 60
+					}
+				},
+				{
+					"filename": "icedeath-bigall-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 58,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 441,
+						"w": 58,
+						"h": 58
+					}
+				},
+				{
+					"filename": "icedeath-bigall-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 62,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 501,
+						"w": 62,
+						"h": 58
+					}
+				},
+				{
+					"filename": "attack-bigred-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 61,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 561,
+						"w": 61,
+						"h": 56
+					}
+				},
+				{
+					"filename": "attack-middlered-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 61,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 61,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icedeath-middleall-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 677,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "icedeath-littleall-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 58,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 733,
+						"w": 58,
+						"h": 56
+					}
+				},
+				{
+					"filename": "icedeath-littleall-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 58,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 791,
+						"w": 58,
+						"h": 54
+					}
+				},
+				{
+					"filename": "attack-bigred-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 58,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 58,
+						"h": 52
+					}
+				},
+				{
+					"filename": "attack-middlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 58,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 901,
+						"w": 58,
+						"h": 52
+					}
+				},
+				{
+					"filename": "icedeath-middleall-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 50,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 955,
+						"w": 50,
+						"h": 58
+					}
+				},
+				{
+					"filename": "icedeath-littleall-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 48,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1015,
+						"w": 48,
+						"h": 56
+					}
+				},
+				{
+					"filename": "attack-bigred-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 56,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 1073,
+						"w": 56,
+						"h": 48
+					}
+				},
+				{
+					"filename": "attack-littlered-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 61,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 1123,
+						"w": 61,
+						"h": 48
+					}
+				},
+				{
+					"filename": "attack-littlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 50,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1173,
+						"w": 50,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 36,
+						"h": 36
+					},
+					"frame": {
+						"x": 53,
+						"y": 1173,
+						"w": 36,
+						"h": 36
+					}
+				},
+				{
+					"filename": "attack-littlered-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 58,
+						"h": 46
+					},
+					"frame": {
+						"x": 130,
+						"y": 123,
+						"w": 58,
+						"h": 46
+					}
+				},
+				{
+					"filename": "attack-middlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 56,
+						"h": 48
+					},
+					"frame": {
+						"x": 190,
+						"y": 125,
+						"w": 56,
+						"h": 48
+					}
+				},
+				{
+					"filename": "icedeath-bigall-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 53,
+						"y": 955,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "attack-littlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 54,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 126,
+						"w": 54,
+						"h": 40
+					}
+				},
+				{
+					"filename": "attack-littlered-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 50,
+						"h": 44
+					},
+					"frame": {
+						"x": 66,
+						"y": 168,
+						"w": 50,
+						"h": 44
+					}
+				},
+				{
+					"filename": "icedeath-middleall-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 65,
+						"y": 214,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "icedeath-littleall-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 65,
+						"y": 266,
+						"w": 46,
+						"h": 46
+					}
+				},
+				{
+					"filename": "attack-bigred-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 118,
+						"y": 171,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "attack-middlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 118,
+						"y": 171,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "attack-bigred-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 27,
+						"w": 46,
+						"h": 37
+					},
+					"frame": {
+						"x": 166,
+						"y": 175,
+						"w": 46,
+						"h": 37
+					}
+				},
+				{
+					"filename": "icecube-big.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 214,
+						"y": 175,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "attack-littlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 44,
+						"h": 32
+					},
+					"frame": {
+						"x": 53,
+						"y": 1007,
+						"w": 44,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-middlered-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 51,
+						"y": 1041,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "icedeath-bigall-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 42,
+						"h": 46
+					},
+					"frame": {
+						"x": 59,
+						"y": 1073,
+						"w": 42,
+						"h": 46
+					}
+				},
+				{
+					"filename": "icecube-biggreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 64,
+						"y": 1121,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "icedeath-middleall-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 38,
+						"h": 42
+					},
+					"frame": {
+						"x": 91,
+						"y": 1167,
+						"w": 38,
+						"h": 42
+					}
+				},
+				{
+					"filename": "attack-bigred-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 85,
+						"y": 1041,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "icecube-bigred.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 103,
+						"y": 1073,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "firedeath-bigred-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 38,
+						"h": 40
+					},
+					"frame": {
+						"x": 106,
+						"y": 1119,
+						"w": 38,
+						"h": 40
+					}
+				},
+				{
+					"filename": "attack-biggreen-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-biggreen-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "death-biggreen-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-biggreen-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-biggreen-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-biggreen-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 99,
+						"y": 1007,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-bigred-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 117,
+						"y": 1041,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "attack-middlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 117,
+						"y": 1041,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-bigred-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 9,
+						"w": 38,
+						"h": 40
+					},
+					"frame": {
+						"x": 131,
+						"y": 1161,
+						"w": 38,
+						"h": 40
+					}
+				},
+				{
+					"filename": "icecube-middle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 40
+					},
+					"frame": {
+						"x": 113,
+						"y": 214,
+						"w": 36,
+						"h": 40
+					}
+				},
+				{
+					"filename": "icecube-middlegreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 40
+					},
+					"frame": {
+						"x": 113,
+						"y": 256,
+						"w": 36,
+						"h": 40
+					}
+				},
+				{
+					"filename": "icecube-middlered.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 40
+					},
+					"frame": {
+						"x": 151,
+						"y": 214,
+						"w": 36,
+						"h": 40
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 36,
+						"h": 38
+					},
+					"frame": {
+						"x": 151,
+						"y": 256,
+						"w": 36,
+						"h": 38
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 15,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 189,
+						"y": 214,
+						"w": 22,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 11,
+						"w": 32,
+						"h": 38
+					},
+					"frame": {
+						"x": 189,
+						"y": 246,
+						"w": 32,
+						"h": 38
+					}
+				},
+				{
+					"filename": "death-biggreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 32,
+						"h": 21
+					},
+					"frame": {
+						"x": 213,
+						"y": 221,
+						"w": 32,
+						"h": 21
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 13,
+						"w": 28,
+						"h": 36
+					},
+					"frame": {
+						"x": 223,
+						"y": 244,
+						"w": 28,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-bigred-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 36,
+						"h": 38
+					},
+					"frame": {
+						"x": 113,
+						"y": 298,
+						"w": 36,
+						"h": 38
+					}
+				},
+				{
+					"filename": "firedeath-bigred-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 11,
+						"w": 36,
+						"h": 38
+					},
+					"frame": {
+						"x": 151,
+						"y": 296,
+						"w": 36,
+						"h": 38
+					}
+				},
+				{
+					"filename": "icedeath-littleall-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 189,
+						"y": 286,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 15,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 225,
+						"y": 282,
+						"w": 28,
+						"h": 34
+					}
+				},
+				{
+					"filename": "attack-bigred-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 189,
+						"y": 326,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 225,
+						"y": 318,
+						"w": 28,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 34,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 733,
+						"w": 34,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-bigred-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 34,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 771,
+						"w": 34,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-bigred-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 34,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 809,
+						"w": 34,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-middlered-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 34,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 847,
+						"w": 34,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 61,
+						"y": 885,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-middlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 15,
+						"w": 34,
+						"h": 32
+					},
+					"frame": {
+						"x": 61,
+						"y": 921,
+						"w": 34,
+						"h": 32
+					}
+				},
+				{
+					"filename": "ice-biggreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 145,
+						"y": 1073,
+						"w": 30,
+						"h": 36
+					}
+				},
+				{
+					"filename": "ice-bigred.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 146,
+						"y": 1111,
+						"w": 30,
+						"h": 36
+					}
+				},
+				{
+					"filename": "icecube-littlegreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 377,
+						"w": 32,
+						"h": 36
+					}
+				},
+				{
+					"filename": "icecube-small.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 415,
+						"w": 32,
+						"h": 36
+					}
+				},
+				{
+					"filename": "icecube-smallred.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 36
+					},
+					"frame": {
+						"x": 61,
+						"y": 453,
+						"w": 32,
+						"h": 36
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 65,
+						"y": 491,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 65,
+						"y": 527,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 64,
+						"y": 563,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 64,
+						"y": 599,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-bigred-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 64,
+						"y": 635,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-bigred-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 65,
+						"y": 671,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "death-littlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 65,
+						"y": 707,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "death-littlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 13
+					},
+					"frame": {
+						"x": 64,
+						"y": 362,
+						"w": 32,
+						"h": 13
+					}
+				},
+				{
+					"filename": "idle-littlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 22
+					},
+					"frame": {
+						"x": 64,
+						"y": 338,
+						"w": 26,
+						"h": 22
+					}
+				},
+				{
+					"filename": "death-bigred-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 32,
+						"h": 21
+					},
+					"frame": {
+						"x": 64,
+						"y": 315,
+						"w": 32,
+						"h": 21
+					}
+				},
+				{
+					"filename": "death-middlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 32,
+						"h": 19
+					},
+					"frame": {
+						"x": 92,
+						"y": 338,
+						"w": 32,
+						"h": 19
+					}
+				},
+				{
+					"filename": "firedeath-bigred-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 15,
+						"w": 12,
+						"h": 22
+					},
+					"frame": {
+						"x": 98,
+						"y": 314,
+						"w": 12,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-biggreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 126,
+						"y": 338,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "attack-biggreen-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 154,
+						"y": 336,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-littlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 98,
+						"y": 359,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "attack-littlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 98,
+						"y": 359,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 98,
+						"y": 359,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 98,
+						"y": 359,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 98,
+						"y": 359,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-bigred-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 387,
+						"w": 30,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-bigred-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 95,
+						"y": 423,
+						"w": 34,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-middlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 95,
+						"y": 459,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 32,
+						"h": 34
+					},
+					"frame": {
+						"x": 101,
+						"y": 491,
+						"w": 32,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-middlered-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 32,
+						"h": 34
+					},
+					"frame": {
+						"x": 101,
+						"y": 527,
+						"w": 32,
+						"h": 34
+					}
+				},
+				{
+					"filename": "attack-biggreen-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 100,
+						"y": 563,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-biggreen-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 100,
+						"y": 597,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-middlegreen-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 100,
+						"y": 631,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "death-bigred-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 101,
+						"y": 665,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-bigred-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 101,
+						"y": 665,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-bigred-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 101,
+						"y": 665,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-bigred-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 101,
+						"y": 665,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "death-biggreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 29
+					},
+					"frame": {
+						"x": 101,
+						"y": 699,
+						"w": 32,
+						"h": 29
+					}
+				},
+				{
+					"filename": "idle-bigred-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 730,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 17,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 764,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-bigred-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 798,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 15,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 832,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 866,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-middlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 15,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 97,
+						"y": 900,
+						"w": 30,
+						"h": 32
+					}
+				},
+				{
+					"filename": "death-middlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 32,
+						"h": 19
+					},
+					"frame": {
+						"x": 97,
+						"y": 934,
+						"w": 32,
+						"h": 19
+					}
+				},
+				{
+					"filename": "firedeath-littlered-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 13,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 101,
+						"y": 955,
+						"w": 28,
+						"h": 32
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 33,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 101,
+						"y": 989,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "firedeath-littlered-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 19,
+						"w": 20,
+						"h": 18
+					},
+					"frame": {
+						"x": 126,
+						"y": 366,
+						"w": 20,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 13,
+						"w": 24,
+						"h": 34
+					},
+					"frame": {
+						"x": 127,
+						"y": 386,
+						"w": 24,
+						"h": 34
+					}
+				},
+				{
+					"filename": "firedeath-bigred-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 17,
+						"w": 24,
+						"h": 32
+					},
+					"frame": {
+						"x": 131,
+						"y": 422,
+						"w": 24,
+						"h": 32
+					}
+				},
+				{
+					"filename": "idle-biggreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 153,
+						"y": 370,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-biggreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 32,
+						"h": 17
+					},
+					"frame": {
+						"x": 153,
+						"y": 402,
+						"w": 32,
+						"h": 17
+					}
+				},
+				{
+					"filename": "ice-middlered.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 32
+					},
+					"frame": {
+						"x": 157,
+						"y": 421,
+						"w": 28,
+						"h": 32
+					}
+				},
+				{
+					"filename": "death-bigred-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 29
+					},
+					"frame": {
+						"x": 188,
+						"y": 362,
+						"w": 32,
+						"h": 29
+					}
+				},
+				{
+					"filename": "idle-bigred-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 222,
+						"y": 362,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-bigred-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"frame": {
+						"x": 187,
+						"y": 393,
+						"w": 32,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlered-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 32,
+						"h": 28
+					},
+					"frame": {
+						"x": 187,
+						"y": 425,
+						"w": 32,
+						"h": 28
+					}
+				},
+				{
+					"filename": "attack-littlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 221,
+						"y": 394,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "attack-littlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 221,
+						"y": 426,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "attack-middlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 129,
+						"y": 459,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-middlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 129,
+						"y": 459,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "attack-middlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 455,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 15,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 193,
+						"y": 455,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-middlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 221,
+						"y": 458,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "ice-middlegreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 32
+					},
+					"frame": {
+						"x": 135,
+						"y": 491,
+						"w": 24,
+						"h": 32
+					}
+				},
+				{
+					"filename": "attack-middlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 487,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-middlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 487,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-middlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 487,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-middlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 487,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-middlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 487,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 193,
+						"y": 489,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "death-bigred-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 27
+					},
+					"frame": {
+						"x": 221,
+						"y": 490,
+						"w": 30,
+						"h": 27
+					}
+				},
+				{
+					"filename": "firedeath-bigred-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 19,
+						"w": 24,
+						"h": 30
+					},
+					"frame": {
+						"x": 135,
+						"y": 525,
+						"w": 24,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 161,
+						"y": 519,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 193,
+						"y": 519,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 28,
+						"h": 30
+					},
+					"frame": {
+						"x": 225,
+						"y": 519,
+						"w": 28,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-bigred-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 32,
+						"h": 17
+					},
+					"frame": {
+						"x": 161,
+						"y": 551,
+						"w": 32,
+						"h": 17
+					}
+				},
+				{
+					"filename": "death-biggreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 25
+					},
+					"frame": {
+						"x": 195,
+						"y": 551,
+						"w": 30,
+						"h": 25
+					}
+				},
+				{
+					"filename": "attack-littlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 227,
+						"y": 551,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 24,
+						"h": 28
+					},
+					"frame": {
+						"x": 135,
+						"y": 557,
+						"w": 24,
+						"h": 28
+					}
+				},
+				{
+					"filename": "death-middlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 32,
+						"h": 15
+					},
+					"frame": {
+						"x": 161,
+						"y": 570,
+						"w": 32,
+						"h": 15
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 134,
+						"y": 587,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 134,
+						"y": 619,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-littlered-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 28,
+						"h": 30
+					},
+					"frame": {
+						"x": 166,
+						"y": 587,
+						"w": 28,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 166,
+						"y": 619,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 17,
+						"w": 26,
+						"h": 30
+					},
+					"frame": {
+						"x": 196,
+						"y": 578,
+						"w": 26,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 224,
+						"y": 579,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 135,
+						"y": 651,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 135,
+						"y": 683,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-middlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 17,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 167,
+						"y": 651,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-biggreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 167,
+						"y": 683,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-littlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 13
+					},
+					"frame": {
+						"x": 135,
+						"y": 715,
+						"w": 32,
+						"h": 13
+					}
+				},
+				{
+					"filename": "idle-middlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 131,
+						"y": 730,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-middlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 131,
+						"y": 730,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "idle-middlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 131,
+						"y": 730,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-littlered-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 19,
+						"w": 24,
+						"h": 26
+					},
+					"frame": {
+						"x": 198,
+						"y": 610,
+						"w": 24,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-middlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 224,
+						"y": 611,
+						"w": 30,
+						"h": 30
+					}
+				},
+				{
+					"filename": "death-biggreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 169,
+						"y": 715,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-bigred-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 163,
+						"y": 743,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlegreen-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 30,
+						"h": 17
+					},
+					"frame": {
+						"x": 131,
+						"y": 762,
+						"w": 30,
+						"h": 17
+					}
+				},
+				{
+					"filename": "idle-biggreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 129,
+						"y": 781,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "idle-bigred-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 129,
+						"y": 812,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "firedeath-littlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 129,
+						"y": 843,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "idle-biggreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 129,
+						"y": 873,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "idle-middlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 129,
+						"y": 903,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "idle-middlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 28
+					},
+					"frame": {
+						"x": 131,
+						"y": 933,
+						"w": 30,
+						"h": 28
+					}
+				},
+				{
+					"filename": "death-middlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 131,
+						"y": 963,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 30,
+						"h": 17
+					},
+					"frame": {
+						"x": 163,
+						"y": 771,
+						"w": 30,
+						"h": 17
+					}
+				},
+				{
+					"filename": "death-middlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 790,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-middlegreen-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 30,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 818,
+						"w": 30,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 846,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 161,
+						"y": 874,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "attack-littlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 904,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 904,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 904,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlered-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 904,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlered-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 904,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-middlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 28
+					},
+					"frame": {
+						"x": 163,
+						"y": 932,
+						"w": 26,
+						"h": 28
+					}
+				},
+				{
+					"filename": "attack-middlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 163,
+						"y": 962,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "attack-middlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 163,
+						"y": 962,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "attack-middlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 133,
+						"y": 991,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 133,
+						"y": 1019,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 15,
+						"w": 18,
+						"h": 30
+					},
+					"frame": {
+						"x": 149,
+						"y": 1041,
+						"w": 18,
+						"h": 30
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 25,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 121,
+						"y": 991,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "ice-smallred.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 26
+					},
+					"frame": {
+						"x": 199,
+						"y": 638,
+						"w": 22,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 199,
+						"y": 666,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-littlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 22,
+						"h": 21
+					},
+					"frame": {
+						"x": 223,
+						"y": 643,
+						"w": 22,
+						"h": 21
+					}
+				},
+				{
+					"filename": "death-littlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 227,
+						"y": 666,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-middlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 32,
+						"h": 15
+					},
+					"frame": {
+						"x": 199,
+						"y": 694,
+						"w": 32,
+						"h": 15
+					}
+				},
+				{
+					"filename": "death-middlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 201,
+						"y": 711,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 19,
+						"w": 20,
+						"h": 26
+					},
+					"frame": {
+						"x": 233,
+						"y": 694,
+						"w": 20,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 21,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 229,
+						"y": 722,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "death-littlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 201,
+						"y": 739,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "death-littlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 195,
+						"y": 766,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 193,
+						"y": 792,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death-middlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 193,
+						"y": 820,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "death-middlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 191,
+						"y": 847,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 189,
+						"y": 874,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 189,
+						"y": 902,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 191,
+						"y": 930,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 191,
+						"y": 958,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 21,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 229,
+						"y": 748,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "death-middlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 223,
+						"y": 774,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "firedeath-littlered-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 221,
+						"y": 800,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 221,
+						"y": 828,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 219,
+						"y": 856,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-littlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 217,
+						"y": 884,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 27,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 217,
+						"y": 912,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 17,
+						"w": 18,
+						"h": 28
+					},
+					"frame": {
+						"x": 219,
+						"y": 930,
+						"w": 18,
+						"h": 28
+					}
+				},
+				{
+					"filename": "firedeath-middlered-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 21,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 219,
+						"y": 960,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 21,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 157,
+						"y": 1019,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "firedeath-bigred-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 15,
+						"w": 12,
+						"h": 26
+					},
+					"frame": {
+						"x": 161,
+						"y": 991,
+						"w": 12,
+						"h": 26
+					}
+				},
+				{
+					"filename": "ice-smallgreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 26
+					},
+					"frame": {
+						"x": 175,
+						"y": 990,
+						"w": 20,
+						"h": 26
+					}
+				},
+				{
+					"filename": "attack-biggreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 175,
+						"y": 1018,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-littlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 175,
+						"y": 1018,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-middlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 175,
+						"y": 1018,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "idle-littlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 169,
+						"y": 1042,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-middlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 177,
+						"y": 1070,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-middlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 178,
+						"y": 1098,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 178,
+						"y": 1126,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "firedeath-bigred-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 13,
+						"w": 12,
+						"h": 26
+					},
+					"frame": {
+						"x": 197,
+						"y": 986,
+						"w": 12,
+						"h": 26
+					}
+				},
+				{
+					"filename": "idle-littlered-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 211,
+						"y": 988,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "idle-middlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 199,
+						"y": 1014,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "idle-littlegreen-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 24
+					},
+					"frame": {
+						"x": 227,
+						"y": 1014,
+						"w": 22,
+						"h": 24
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 19,
+						"w": 6,
+						"h": 12
+					},
+					"frame": {
+						"x": 248,
+						"y": 125,
+						"w": 6,
+						"h": 12
+					}
+				},
+				{
+					"filename": "attack-bigred-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 171,
+						"y": 1152,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-middlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 171,
+						"y": 1152,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-littlered-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 171,
+						"y": 1176,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "attack-littlered-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 21,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 195,
+						"y": 1152,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "idle-littlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 195,
+						"y": 1176,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "firedeath-littlered-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 17,
+						"w": 8,
+						"h": 10
+					},
+					"frame": {
+						"x": 146,
+						"y": 1149,
+						"w": 8,
+						"h": 10
+					}
+				},
+				{
+					"filename": "firedeath-middlered-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 17,
+						"w": 8,
+						"h": 10
+					},
+					"frame": {
+						"x": 146,
+						"y": 1149,
+						"w": 8,
+						"h": 10
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 12,
+						"h": 20
+					},
+					"frame": {
+						"x": 239,
+						"y": 988,
+						"w": 12,
+						"h": 20
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 21,
+						"w": 10,
+						"h": 16
+					},
+					"frame": {
+						"x": 237,
+						"y": 912,
+						"w": 10,
+						"h": 16
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 8,
+						"h": 20
+					},
+					"frame": {
+						"x": 239,
+						"y": 930,
+						"w": 8,
+						"h": 20
+					}
+				},
+				{
+					"filename": "idle-littlegreen-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 199,
+						"y": 1040,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "idle-littlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 22
+					},
+					"frame": {
+						"x": 223,
+						"y": 1040,
+						"w": 22,
+						"h": 22
+					}
+				},
+				{
+					"filename": "firedeath-littlered-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 13,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 205,
+						"y": 1062,
+						"w": 16,
+						"h": 20
+					}
+				},
+				{
+					"filename": "attack-littlegreen-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 223,
+						"y": 1064,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-littlered-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 17,
+						"w": 12,
+						"h": 12
+					},
+					"frame": {
+						"x": 205,
+						"y": 1084,
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "firedeath-littlered-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 17,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 219,
+						"y": 1084,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 17,
+						"w": 8,
+						"h": 20
+					},
+					"frame": {
+						"x": 206,
+						"y": 1098,
+						"w": 8,
+						"h": 20
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 23,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 216,
+						"y": 1104,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-middlered-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 236,
+						"y": 1104,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "firedeath-littlegreen-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 27,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 239,
+						"y": 1084,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 27,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 206,
+						"y": 1124,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 16,
+						"h": 18
+					},
+					"frame": {
+						"x": 224,
+						"y": 1124,
+						"w": 16,
+						"h": 18
+					}
+				},
+				{
+					"filename": "firedeath-middlered-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 15,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 242,
+						"y": 1122,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "firedeath-middlered-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 17,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 219,
+						"y": 1144,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "firedeath-middlered-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 13,
+						"w": 14,
+						"h": 18
+					},
+					"frame": {
+						"x": 219,
+						"y": 1162,
+						"w": 14,
+						"h": 18
+					}
+				},
+				{
+					"filename": "attack-littlered-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 219,
+						"y": 1182,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "firedeath-middlegreen-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 21,
+						"w": 10,
+						"h": 14
+					},
+					"frame": {
+						"x": 237,
+						"y": 1144,
+						"w": 10,
+						"h": 14
+					}
+				},
+				{
+					"filename": "firedeath-biggreen-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 23,
+						"w": 8,
+						"h": 12
+					},
+					"frame": {
+						"x": 243,
+						"y": 1064,
+						"w": 8,
+						"h": 12
+					}
+				},
+				{
+					"filename": "firedeath-bigred-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 21,
+						"w": 8,
+						"h": 12
+					},
+					"frame": {
+						"x": 245,
+						"y": 884,
+						"w": 8,
+						"h": 12
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5c49769c85be079c86eaa25a935accb5:46eb39899e38aedb8163cc209ba969c0:f74f4c97ee317a37ce4c989b2dfd3b2a$"
+	}
+}
